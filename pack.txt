@@ -1,4 +1,4 @@
-name="Lista"
+name="Pack"
 version="1.0"
 url="https://github.com/Tringulis/tringulis.github.io/raw/main/packpv.zip"
 minor="http://"
