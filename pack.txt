@@ -1,0 +1,15 @@
+name="Lista"
+version="1.0"
+url="https://github.com/Tringulis/fuente/raw/master/packpv.zip"
+minor="http://"
+gui="http://"
+kodi="21"
+theme="http://"
+icon="https://i.imgur.com/drWDoxP.png"
+fanart="http://stva.ga/wp-content/uploads/2019/03/fondow.png"
+preview="http://"
+adult="No"
+info="http://"
+description="Pack"
+
+ 
