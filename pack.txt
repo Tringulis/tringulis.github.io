@@ -14,7 +14,7 @@ description="Pack Windows"
 
 name="Pack Android"
 version="1.0"
-url="https://tringulis.github.io/packpv.zip"
+url="https://tringulis.github.io/packpva.zip"
 minor="http://"
 gui="http://"
 kodi="21"
