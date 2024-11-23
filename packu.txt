@@ -1,5 +1,5 @@
-name="Pack Windows"
-version="1.5"
+name="Pack"
+version="1.7"
 url="https://tringulis.github.io/packpv.zip"
 minor="http://"
 gui="http://"
