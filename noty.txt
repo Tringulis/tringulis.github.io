@@ -1,0 +1,8 @@
+100
+|||
+
+[COLOR orange][B]ESTO ES IMPORTANTE[/B][/COLOR]
+
+[COLOR white]Tienes que ir a OPCIONES y pulsar en ACTUALIZAR PACK.
+Ahora solo te saldrá una opción INSTALAR. Pulsa e instala para seguir recibiendo actualizaciones.[/COLOR]  
+
