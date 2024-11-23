@@ -10,6 +10,6 @@ fanart="https://images7.alphacoders.com/714/714081.jpg"
 preview="http://"
 adult="No"
 info="http://"
-description="Pack Windows"
+description="Pack"
 
  
