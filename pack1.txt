@@ -1,6 +1,6 @@
-name="Pack"
-version="2.2"
-url="https://tringulis.github.io/packpv.zip"
+name="Test"
+version="0.1"
+url="https://tringulis.github.io/packpv1.zip"
 minor="http://"
 gui="http://"
 kodi="19"
@@ -10,6 +10,6 @@ fanart="https://images7.alphacoders.com/714/714081.jpg"
 preview="http://"
 adult="No"
 info="http://"
-description="Pack"
+description="Test"
 
  
