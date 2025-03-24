@@ -1087,7 +1087,7 @@ acetream://6791a2d1587e8c68eac10815f22aed439b0f6c9f
 														###----- INFANTILES -----###
 														
 #EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Infantiles",Boing
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8														
+http://185.189.225.150:85/boing/index.m3u8
 
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
 https://ztnr.rtve.es/ztnr/5466990.m3u8
