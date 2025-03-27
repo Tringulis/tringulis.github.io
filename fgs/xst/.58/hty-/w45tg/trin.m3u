@@ -25,7 +25,7 @@ acestream://71a65780b9c542a8c9e4084ae5aefdd9286da51e
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Carreras" tvg-id="DAZN F1 HD", DAZN F1
-acestream://c367738691c63896679e523d4c1c7933729acc7b
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Carreras" tvg-id="DAZN F1 HD", DAZN F1
 acestream://4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1
@@ -37,7 +37,7 @@ acestream://d6281d4e6310269b416180442a470d23a4a99dc9
 acestream://9f04b67904bf5ec6782ab34e8105bca264c10b62
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Carreras" tvg-id="DAZN F1 HD", DAZN F1
-acestream://5d8613b5fde87f366bb5e41ac8011007a4c6bd3
+acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Carreras" tvg-id="DAZN F1 HD", DAZN F1
 acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
@@ -68,7 +68,9 @@ acestream://adab1ca1447108f5dcee688d709bdd372a002c4b
 
 #EXTINF:-1 tvg-logo="https://static.motor.es/f1/fichas/contenido/carlos-sainz/min280x180/carlos-sainz2024_1708674925.jpg" tvg-id="" group-title="Carreras", F1 TV 55 | Carlos Sainz | Williams --> NEW ERA
 acestream://ff6c8b62faf8b5130bea01fe2aa14e7bed8b3950
-																###----- FUTBOL -----###
+
+					
+											###----- FUTBOL -----###
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJCqWdYL/Captura-de-pantalla-2024-07-01-181504.png" group-title="Futbol" tvg-id="LaLiga TV BAR HD", La Liga TV BAR
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e			
@@ -161,7 +163,7 @@ acestream://97ba38d47680954be40e48bd8f43e17222fefecb
 acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9		
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="Futbol" tvg-id="M+ Liga de Campeones 2 HD", M+ Liga de Campeones 2
-acestream://0adc3b525508b4a74ce65685870894a77401afb7
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="Futbol" tvg-id="M+ Liga de Campeones 2 HD", M+ Liga de Campeones 2
 acestream://f7fa79fdad436e969a82389a062a74564e91b10e
@@ -182,7 +184,7 @@ acestream://3618edda333dad5374ac2c801f5f14483934b97d
 acestream://4d754e0b6b583d01668de8544c43cad6a1b253da
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="Futbol" tvg-id="M+ Liga de Campeones 3 HD", M+ Liga de Campeones 3
-acestream://38e65f92af1de567f0af83562c5a14a3db6dc8ac8
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="Futbol" tvg-id="M+ Liga de Campeones 3 HD", M+ Liga de Campeones 3
 acestream://509e91774b5b2d0af80883c8d4217c3b53235231
@@ -197,7 +199,7 @@ acestream://291ef48025291b7241ef370f657d0e47132c6fb0
 acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligahm2.png" group-title="Futbol" tvg-id="LaLiga TV Hypermotion HD", LaLiga Hypermotion
-acestream://4e066df67d118f95b41f850869abdc663c515186			
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligahm2.png" group-title="Futbol" tvg-id="LaLiga TV Hypermotion HD", LaLiga Hypermotion
 acestream://121f719ebb94193c6086ef92865cf9b197750980
@@ -260,7 +262,7 @@ acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Deportes" tvg-id="M+ Vamos HD",M+ Vamos
-acestream://c6b52ffb3b84836d334569204797d88bf15d48fa			
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Deportes" tvg-id="M+ Vamos HD",M+ Vamos
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
@@ -278,7 +280,7 @@ acestream://e2d26332bf1aa59aec7e3cbe9ed4689df44ae368
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QcDkP0P/Captura-de-pantalla-2024-11-23-140721.png" group-title="Deportes" tvg-id="M+ Ellas Vamos HD",M+ Ellas Vamos
-acestream://af636e7b1747cf868eedf242b96bd98f8fbbed4f
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem.png" group-title="Deportes" tvg-id="M+ Deportes HD", M+ Deportes
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
@@ -367,17 +369,20 @@ acestream://95120cee8223e9af839994ecc2b96aef05f8a151
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Deportes" tvg-id="Eurosport 1", Eurosport 1
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Deportes" tvg-id="Eurosport 1", Eurosport 1
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Deportes" tvg-id="Eurosport 2", Eurosport 2
 acestream://98784fa0714190de289f42eb5b84e405df7e685a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Deportes" tvg-id="Eurosport 2", Eurosport 2
-acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Deportes" tvg-id="Eurosport 2", Eurosport 2
 acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Deportes" tvg-id="M+ Golf", M+ Golf
-acestream://f41f1096862767289620be5bd85727f946a434db
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Deportes" tvg-id="M+ Golf", M+ Golf
 acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
@@ -385,13 +390,13 @@ acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Deportes" tvg-id="M+ Golf 2", M+ Golf 2
 acestream://d41f974884746560213e68519e5f6b9d51f37470
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes" tvg-id="DAZN EVENTOS 1", DAZN EVENTOS 1
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="Deportes" tvg-id="DAZN EVENTOS 1", DAZN EVENTOS 1
 acestream://9a81584b459dbcf71f765463cccd643c59894d74
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes" tvg-id="DAZN EVENTOS 2", DAZN EVENTOS 2
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="Deportes" tvg-id="DAZN EVENTOS 2", DAZN EVENTOS 2
 acestream://7a90838e67f415e70fd7c9bb87edeb2da5db1725
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes" tvg-id="DAZN EVENTOS 3", DAZN EVENTOS 3
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="Deportes" tvg-id="DAZN EVENTOS 3", DAZN EVENTOS 3
 acestream://e7330b2c28af22b081ab509df5aac9672a7e037b
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/640px-ESPN_Premium_logo.png" group-title="Deportes" tvg-id="ESPN", ESPN Premium
@@ -415,6 +420,9 @@ acestream://a0270364634d9c49279ba61ae3d8467809fb7095
 #EXTINF:-1 tvg-id="Redbull TV" tvg-logo="https://e7.pngegg.com/pngimages/498/290/png-clipart-red-bull-tv-television-channel-logo-red-bull-television-carnivoran.png" group-title="Deportes" tvg-name="RedBull TV", RedBull TV
 acestream://9a81584b459dbcf71f765463cccd643c59894d74
 
+#EXTINF:-1 tvg-id="Redbull TV" tvg-logo="https://e7.pngegg.com/pngimages/498/290/png-clipart-red-bull-tv-television-channel-logo-red-bull-television-carnivoran.png" group-title="Deportes" tvg-name="RedBull TV", RedBull TV
+acestream://31ef168d43c7cd04e672475f7ec33b99b9fe5a96
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="Deportes" tvg-id="NBA", NBA
 acestream://c8aac540621d481965791c4442a7e868bcca10ca
 
@@ -435,7 +443,10 @@ https://jmp2.uk/sam-ES30000091V.m3u8
 #EXTINF:-1 channel-id="ESBD2600001ME" tvg-id="ESBD2600001ME" tvg-chno="" tvg-name="Tennis Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20241022T051122SQUARE.png" group-title="Deportes", Tennis Channel
 https://jmp2.uk/sam-ESBD2600001ME.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="SuperTennis" group-title="Deportes", SuperTennis
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4eaHEwi6w27KQeEeSNxZdhnRazamUNBh5MIZegCqGGufTADxC9oALRWOhKC8NZXxuY5BNF-IhQ=s160-c-k-c0x00ffffff-no-rj" tvg-id="Sky Sport Tennis" group-title="Deportes", Sky Sport Tennis
+acestream://8d475e2688519f2c602687b71be54cedbaef9e6b
+
+#EXTINF:-1 tvg-logo="https://www.lutherdsgn.com/wp-content/uploads/2023/06/3_SuperTennis_Logo_Large_View-min-scaled.jpg" tvg-id="SuperTennis" group-title="Deportes", SuperTennis
 acestream://b58dbf92765976b308695f62dea94b00b40730ee
 
 #EXTINF:-1 channel-id="65df339028730900089ed64b" tvg-id="65df339028730900089ed64b" tvg-chno="" tvg-name="Billiard TV" tvg-logo="https://images.pluto.tv/channels/65df339028730900089ed64b/colorLogoPNG.png" group-title="Deportes", Billiard TV
@@ -448,21 +459,26 @@ https://jmp2.uk/plu-66275d2d039f940008cc47b4.m3u8
 https://jmp2.uk/plu-6080381ab7c9ea00074ec64c.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes" tvg-id="beIN SPORTS XTRA ñ", beIN SPORTS XTRA ñ
-acestream://d41f974884746560213e68519e5f6b9d51f37470
-
+acestream://4922d8414b6d96bcdd36e99483a7077f484b6f71
 
 																	###----- BOXEO -----###
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg" group-title="Deportes" tvg-id="UFC", UFC
 acestream://2d4b53402ff6158ec5aa4b38a80a773b5e00da0d
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes" tvg-id="Euro1", Euro1
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg" group-title="Deportes" tvg-id="UFC", UFC
+acestream://872608e734992db636eb79426802cd08f4029afb
+
+#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/01/69/58/76/360_F_169587633_TrVnoFDEEHIq2aAe3TttdIJK6iqnNGzg.jpg" group-title="Deportes" tvg-id="Euro1", Euro1
 acestream://626fc7cf70680d1d77b4b5293be94f63c910ee92
+
+#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/01/69/58/76/360_F_169587633_TrVnoFDEEHIq2aAe3TttdIJK6iqnNGzg.jpg" group-title="Deportes" tvg-id="Euro1", Euro1
+acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1
 
 #EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2024/02/logo-DAZN-Combat.png" group-title="Deportes" tvg-id="DAZN Combat", DAZN Combat
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="UFC Fight Pass" group-title="Deportes", UFC Fight Pass
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1939324.png" tvg-id="UFC Fight Pass" group-title="Deportes", UFC Fight Pass
 acestream://f74dcf44f57fc71cb4b0719b3342e569eba50c51
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c0/c6/17/c0c6173c46ecc46823000e64e074c2b3.png" group-title="Deportes" tvg-id="Combate", Combate
@@ -525,6 +541,12 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 channel-id="ESBC4100004J1" tvg-id="ESBC4100004J1" tvg-chno="" tvg-name="24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20241022T050444SQUARE.png" group-title="Generalistas", 24H
 https://jmp2.uk/sam-ESBC4100004J1.m3u8
 
+#EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c401897060d34194cab703c7ebfa15d.webp" group-title="Generalistas", HispanTV
+https://live.presstv.ir/hls/hispantv.m3u8
+
+#EXTINF:-1 tvg-id="Be mad" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0809019d494375790d229747b0a8c230.webp" group-title="Generalistas", Be Mad
+https://directos.bemad.es/orilinear02/live/linear02/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Generalistas" tvg-name="Flooxer",Flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 
@@ -551,9 +573,6 @@ acestream://da60cf19fab0b9e23aab83bb37d61e8b8c3b7655
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-chno="5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Generalistas" tvg-name="Telecinco HD", TeleCinco
 acestream://154c6f876ddf1d9c87880eae0d0442335ec156bf
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" tvg-id="Mega" group-title="Generalistas", Mega
-acestream://65b66db65acc04f75701f733cab599c375bff645
 
 
 														###----- TEMATICOS -----###
@@ -688,7 +707,7 @@ acestream://28dc545c00d47a620bc7243657de5a85811f1254
 http://vegafibratv.com:8085/AMC/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-logo="" group-title="Cine",Canal Hollywood
-acestream://5bd6122d984a90a930b2dafdedfe249eea3457e0
+
 
 #EXTINF:-1 tvg-id="Paramount Network" tvg-logo="" group-title="Cine",Paramount Network
 http://185.189.225.150:85/Paramount/index.m3u8
@@ -701,10 +720,13 @@ http://185.189.225.150:85/Paramount/index.m3u8
 http://185.189.225.150:85/BOM/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR Channel HD" tvg-logo="" group-title="Cine",STAR Channel
-acestream://87f3b07097a5dde0b9a22daf95a29dd4475a0595
+
 
 #EXTINF:-1 tvg-id="M+ Comedia HD" tvg-logo="" group-title="Cine",M+ Comedia
-acestream://bed9a9fc8e9d07a65591c0e8c31cb558a029f985
+
+
+#EXTINF:-1 tvg-id="Cine Friki" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f667db78acfeca3e792be86616ee96f.webp" group-title="Cine",Cine Friki
+https://d2jqgm8hyia1n3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/08230ff6-0f05-415e-99d1-5d727dac97b7/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Cine" tvg-name="Multicine atresplayer",A3 Multicine
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
@@ -952,7 +974,7 @@ https://jmp2.uk/sam-ES4000016U.m3u8
 #EXTINF:-1 tvg-id="Odisea" tvg-logo="" group-title="Documentales",Odisea
 														
 #EXTINF:-1 tvg-logo="" tvg-id="Discovery" group-title="Documentales", Discovery
-acestream://cd485af78cf86934d77cf867f73fe7f5cd32981a
+
 
 #EXTINF:-1 channel-id="ES12000024R" tvg-id="ES12000024R" tvg-chno="" tvg-name="Historia y Vida" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20241106T142227SQUARE.png" group-title="Documentales", Historia y Vida
 https://jmp2.uk/sam-ES12000024R.m3u8
@@ -962,6 +984,9 @@ https://jmp2.uk/sam-ES3200001F1.m3u8
 
 #EXTINF:-1 channel-id="ESBA22000102A" tvg-id="ESBA22000102A" tvg-chno="" tvg-name="NatureTime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20241022T050748SQUARE.png" group-title="Documentales", NatureTime
 https://jmp2.uk/sam-ESBA22000102A.m3u8
+
+#EXTINF:-1 tvg-id="Love the Planet" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0051dffef6555ae2d69b59e63b301b3b.webp" group-title="Documentales", NatureTime
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/360p/index.m3u8
 
 #EXTINF:-1 channel-id="ESBD1400003QN" tvg-id="ESBD1400003QN" tvg-chno="" tvg-name="Royalworld - Nobleza y Dinastias" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20241106T142225SQUARE.png" group-title="Documentales", Royalworld - Nobleza y Dinastias
 https://jmp2.uk/sam-ESBD1400003QN.m3u8
@@ -1039,10 +1064,7 @@ https://jmp2.uk/sam-ESBD3200001EG.m3u8
 https://jmp2.uk/sam-ESAJ2900001Y3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" tvg-id="" group-title="Motor", Canal Motor
-acestream://31ef168d43c7cd04e672475f7ec33b99b9fe5a96
 
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="Motor", Motors TV HD
-acestream://8d475e2688519f2c602687b71be54cedbaef9e6b
 
 #EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="Motor", Retrovision Motor
 acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
@@ -1068,20 +1090,23 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-60da3a5c0d1cc1002c38370e.m3u8
 #EXTINF:-1 channel-id="6076c74daa05ac0007d0eb07" tvg-id="6076c74daa05ac0007d0eb07" tvg-chno="656" tvg-name="Tuning" tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="Motor", Tuning
 https://jmp2.uk/plu-6076c74daa05ac0007d0eb07.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Floracing" tvg-logo="" group-title="Motor", FloRacing
+#EXTINF:-1 tvg-chno="" tvg-name="Floracing" tvg-logo="https://images.squarespace-cdn.com/content/v1/58db35c729687fd202ace368/1615329416881-5TRJNTJVM38KSCNO1V39/FloRacing-Ignite+Black.jpg" group-title="Motor", FloRacing
 https://linear-554.frequency.stream/dist/flosports/554/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="MotorRacing" tvg-logo="" group-title="Motor", MotorRacing
+#EXTINF:-1 tvg-chno="" tvg-name="MotorRacing" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dcfa04b326ae2d1b6a2c7f86b6452abf.webp" group-title="Motor", MotorRacing
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/fe320f6f-fbc4-4b81-8549-1f7a5ff71ca0/0.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="ACI Sport TV" tvg-logo="" group-title="Motor", ACI Sport TV
+#EXTINF:-1 tvg-chno="" tvg-name="ACI Sport TV" tvg-logo="https://www.scuderiavalleditria.it/wp-content/uploads/2017/01/logo-aci-sport-verticale.jpg" group-title="Motor", ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8?session=PpUo4v9VwDBztB3uczXKoy
 
-#EXTINF:-1 tvg-chno="" tvg-name="CanalMotor" tvg-logo="" group-title="Motor", CanalMotor
+#EXTINF:-1 tvg-chno="" tvg-name="CanalMotor" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" group-title="Motor", CanalMotor
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="AutoMotorSport HD" tvg-logo="" group-title="Motor", AutoMotorSport
-acetream://6791a2d1587e8c68eac10815f22aed439b0f6c9f
+#EXTINF:-1 tvg-chno="" tvg-name="AutoMotor Sport Channel" tvg-logo="https://www.hdtv-sender.com/wp-content/uploads/2013/01/auto-motor-sport-channel.jpg" group-title="Motor", AutoMotorSport
+acestream://6791a2d1587e8c68eac10815f22aed439b0f6c9f
+
+#EXTINF:-1 tvg-chno="" tvg-name="AutoMotor Sport Channel" tvg-logo="https://www.hdtv-sender.com/wp-content/uploads/2013/01/auto-motor-sport-channel.jpg" group-title="Motor", AutoMotorSport
+acestream://610993aea3a2bfd509594334b7461ce96900f54c
 
 
 														###----- INFANTILES -----###
