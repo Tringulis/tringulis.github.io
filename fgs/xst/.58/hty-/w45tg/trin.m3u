@@ -1422,3 +1422,18 @@ https://jmp2.uk/plu-60b4c06717da110007ee1af6.m3u8
 
 #EXTINF:-1 channel-id="662a69daa0a74e00087a1c72" tvg-id="662a69daa0a74e00087a1c72" tvg-chno="320" tvg-name="Pluto TV Telenovelas Clásicas" tvg-logo="https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png" group-title="Telenovelas", Pluto TV Telenovelas Clásicas
 https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
+
+
+													###----- DIFERIDOS -----###
+													
+#EXTINF:-1 tvg-name="F1 China - Libres 01 [F1TV]" tvg-logo="https://i.postimg.cc/zvP3Jpbq/china-2025.png",F1 China - Libres 01 [F1TV]
+https://filemoon.to/d/65y1rzimz938
+
+#EXTINF:-1 tvg-name="F1 China - Libres 01 [DAZNF1]" tvg-logo="https://i.postimg.cc/zvP3Jpbq/china-2025.png",F1 China - Libres 01 [DAZNF1]
+https://filemoon.to/d/mr7yg9jymael
+
+#EXTINF:-1 tvg-name="F1 China - Qualy Sprint [F1TV]" tvg-logo="https://i.postimg.cc/zvP3Jpbq/china-2025.png",F1 China - Qualy Sprint [F1TV]
+https://filemoon.to/d/4dnxojgbdint
+
+#EXTINF:-1 tvg-name="F1 Australia - Carrera [F1TV]" tvg-logo="https://i.postimg.cc/0jrLJwyM/AUSTRALIA-2025.png",F1 Australia - Carrera [F1TV]
+https://pixeldrain.com/u/M69q63T8													
