@@ -523,6 +523,11 @@ http://185.189.225.150:85/neox/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" tvg-id="Mega" group-title="Generalistas", Mega
 http://185.189.225.150:85/mega/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/dmax-spain-logo-png_seeklogo-519387.png" tvg-id="DMAX" group-title="Generalistas", DMAX
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+http://vavoo.to/play/1934981639/index.m3u8
+
 #EXTINF:-1 tvg-id="Nova" tvg-logo="" group-title="Generalistas",Nova
 http://185.189.225.150:85/nova/index.m3u8
 
@@ -535,20 +540,17 @@ acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mplus.png" group-title="Generalistas" tvg-id="Movistar Plus+ 2 HD", Movistar Plus+ 2
 acestream://bbd251f89bc7716e2bef237906ecfba3c562ecde
 
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Generalistas" tvg-name="24h",24h
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-#EXTINF:-1 channel-id="ESBC4100004J1" tvg-id="ESBC4100004J1" tvg-chno="" tvg-name="24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20241022T050444SQUARE.png" group-title="Generalistas", 24H
-https://jmp2.uk/sam-ESBC4100004J1.m3u8
-
-#EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c401897060d34194cab703c7ebfa15d.webp" group-title="Generalistas", HispanTV
+#EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c401897060d34194cab703c7ebfa15d.webp" group-title="Generalistas" tvg-name="HispanTV",HispanTV
 https://live.presstv.ir/hls/hispantv.m3u8
 
-#EXTINF:-1 tvg-id="Be mad" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0809019d494375790d229747b0a8c230.webp" group-title="Generalistas", Be Mad
+#EXTINF:-1 tvg-id="Be mad" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0809019d494375790d229747b0a8c230.webp" group-title="Generalistas" tvg-name="Be Mad",Be Mad
 https://directos.bemad.es/orilinear02/live/linear02/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Generalistas" tvg-name="Flooxer",Flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Generalistas" tvg-name="Star TVE HD",Star TVE
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="Generalistas" tvg-id="ETB1", ETB1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
@@ -561,6 +563,15 @@ https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
 
 #EXTINF:-1 channel-id="ESBD3000002GP" tvg-id="ESBD3000002GP" tvg-chno="" tvg-name="Canal Sur Andalucía" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20241022T050505SQUARE.png" group-title="Generalistas", Canal Sur Andalucía
 https://jmp2.uk/sam-ESBD3000002GP.m3u8
+
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Generalistas" tvg-name="24h",24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 channel-id="ESBC4100004J1" tvg-id="ESBC4100004J1" tvg-chno="" tvg-name="24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20241022T050444SQUARE.png" group-title="Generalistas", 24H
+https://jmp2.uk/sam-ESBC4100004J1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5fc5ZyI.png" group-title="Generalistas" tvg-name="Canal Terrassa",Canal Terrassa
+https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="Generalistas", La Sexta
 acestream://a4378aa93f9f436cfd1654160991f554e5395d88
@@ -859,6 +870,8 @@ https://ztnr.rtve.es/ztnr/6922467.m3u8
 
 #EXTINF:-1 tvg-id="Calle 13 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/a/l/xcale13.jpg.pagespeed.ic.aKYk6PRJM-.jpg" group-title="Series" tvg-name="Calle 13 HD",Calle 13
 
+#EXTINF:-1 tvg-id="Atresplayer Clasicos" tvg-logo="https://i.imgur.com/FizKu1X.png" group-title="Series" tvg-name="Atresplayer Clasicos",Atresplayer Clasicos
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/1.m3u8
 
 #EXTINF:-1 channel-id="ESBD1300001EP" tvg-id="ESBD1300001EP" tvg-chno="" tvg-name="Baywatch – Los Vigilantes de la Playa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20241106T142319SQUARE.png" group-title="Series", Baywatch – Los Vigilantes de la Playa
 https://jmp2.uk/sam-ESBD1300001EP.m3u8
@@ -985,8 +998,11 @@ https://jmp2.uk/sam-ES3200001F1.m3u8
 #EXTINF:-1 channel-id="ESBA22000102A" tvg-id="ESBA22000102A" tvg-chno="" tvg-name="NatureTime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20241022T050748SQUARE.png" group-title="Documentales", NatureTime
 https://jmp2.uk/sam-ESBA22000102A.m3u8
 
-#EXTINF:-1 tvg-id="Love the Planet" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0051dffef6555ae2d69b59e63b301b3b.webp" group-title="Documentales", NatureTime
+#EXTINF:-1 tvg-id="Love thePlanet" tvg-logo="https://fr.themedialeader.com/wp-content/uploads/files/media/images/2023-04/nl2901-Samsung%20TV%20Plus%20et%20Love%20TV%20Channels%20lancent%20%C2%AB%20Love%20The%20Planet%20%C2%BB.jpg" group-title="Documentales", Love ThePlanet
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/360p/index.m3u8
+
+#EXTINF:-1 tvg-id="Atresplayer Inquietos" tvg-logo="https://i.imgur.com/FizKu1X.png" group-title="Documentales" tvg-name="Atresplayer Inquietos",Atresplayer Inquietos
+https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61/1.m3u8
 
 #EXTINF:-1 channel-id="ESBD1400003QN" tvg-id="ESBD1400003QN" tvg-chno="" tvg-name="Royalworld - Nobleza y Dinastias" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20241106T142225SQUARE.png" group-title="Documentales", Royalworld - Nobleza y Dinastias
 https://jmp2.uk/sam-ESBD1400003QN.m3u8
@@ -1060,6 +1076,9 @@ https://jmp2.uk/plu-604f8125c6669b00077f7699.m3u8
 #EXTINF:-1 channel-id="ESBD3200001EG" tvg-id="ESBD3200001EG" tvg-chno="4658" tvg-name="Carrerasvision" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200001EG_20241022T051031SQUARE.png" group-title="Motor", Carrerasvision
 https://jmp2.uk/sam-ESBD3200001EG.m3u8
 
+#EXTINF:-1 channel-id="60d356a534f63f000850cdd7" tvg-id="60d356a534f63f000850cdd7" tvg-chno="161" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="Motor", Top Gear
+https://jmp2.uk/plu-60d356a534f63f000850cdd7.m3u8
+
 #EXTINF:-1 channel-id="ESAJ2900001Y3" tvg-id="ESAJ2900001Y3" tvg-chno="4656" tvg-name="Top Gear en Español" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20241022T051126SQUARE.png" group-title="Motor", Top Gear en Español
 https://jmp2.uk/sam-ESAJ2900001Y3.m3u8
 
@@ -1080,9 +1099,6 @@ https://jmp2.uk/rok-ca25dfba8ba45a1bb277c8b0ca8f56c4.m3u8
 
 #EXTINF:-1 channel-id="6080345ebb49b90007ce0baf" tvg-id="6080345ebb49b90007ce0baf" tvg-chno="160" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="Motor", Pluto TV Motor
 https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
-
-#EXTINF:-1 channel-id="60d356a534f63f000850cdd7" tvg-id="60d356a534f63f000850cdd7" tvg-chno="161" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="Motor", Top Gear
-https://jmp2.uk/plu-60d356a534f63f000850cdd7.m3u8
 
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-60da3a5c0d1cc1002c38370e" tvg-id="643054b1fc3be59477853717-60da3a5c0d1cc1002c38370e" tvg-chno="" tvg-name="Motorvision TV en Español" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="Motor", Motorvision TV en Español
 https://jmp2.uk/plex-643054b1fc3be59477853717-60da3a5c0d1cc1002c38370e.m3u8
