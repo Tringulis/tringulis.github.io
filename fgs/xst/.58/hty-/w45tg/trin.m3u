@@ -523,8 +523,10 @@ http://185.189.225.150:85/neox/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" tvg-id="Mega" group-title="Generalistas", Mega
 http://185.189.225.150:85/mega/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/dmax-spain-logo-png_seeklogo-519387.png" tvg-id="DMAX" group-title="Generalistas", DMAX
-http://vavoo.to/play/1934981639/index.m3u8|Referer=http://vavoo.to/&User-Agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/dmax-spain-logo-png_seeklogo-519387.png" tvg-id="MTMAD" group-title="Generalistas", MTMAD
+#EXTVLCOPT:http-referrer=mitele
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://directos.mitele.es/orilinear15/live/linear15/main/main.isml/.m3u8?t=1&hdnts=st=1712142298~exp=1714500678~acl=/*~hmac=b6438eeca06351c6cc7626017ea2880b8cf8c9fc819fd7fde83647d5e42ad39f
 
 #EXTINF:-1 tvg-id="Nova" tvg-logo="" group-title="Generalistas",Nova
 http://185.189.225.150:85/nova/index.m3u8
