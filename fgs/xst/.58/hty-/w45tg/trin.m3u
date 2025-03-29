@@ -523,7 +523,7 @@ http://185.189.225.150:85/neox/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" tvg-id="Mega" group-title="Generalistas", Mega
 http://185.189.225.150:85/mega/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/dmax-spain-logo-png_seeklogo-519387.png" tvg-id="MTMAD" group-title="Generalistas", MTMAD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/mtmad-24h-en-directo-Online-696x392.png" tvg-id="mtmad 24h" group-title="Generalistas", mtmad 24h
 #EXTVLCOPT:http-referrer=mitele
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://directos.mitele.es/orilinear15/live/linear15/main/main.isml/.m3u8?t=1&hdnts=st=1712142298~exp=1714500678~acl=/*~hmac=b6438eeca06351c6cc7626017ea2880b8cf8c9fc819fd7fde83647d5e42ad39f
@@ -551,6 +551,9 @@ https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Generalistas" tvg-name="Star TVE HD",Star TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Generalistas" tvg-name="ATRESPlayer PREMIUM",Atresplayer Premium
+https://fast-channels.atresmedia.com/6107d2846584a82b1f0eb800/6107d2846584a82b1f0eb800.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="Generalistas" tvg-id="ETB1", ETB1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
@@ -717,13 +720,17 @@ acestream://28dc545c00d47a620bc7243657de5a85811f1254
 #EXTINF:-1 tvg-id="AMC HD" tvg-logo="" group-title="Cine",AMC
 http://vegafibratv.com:8085/AMC/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-logo="" group-title="Cine",Canal Hollywood
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="" group-title="Cine",AXN
+http://185.189.225.150:85/AXN/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-logo="" group-title="Cine",Canal Hollywood
+http://185.189.225.150:85/Hollywood/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount Network" tvg-logo="" group-title="Cine",Paramount Network
 http://185.189.225.150:85/Paramount/index.m3u8
 
 #EXTINF:-1 tvg-id="Cosmo HD" tvg-logo="" group-title="Cine",Cosmo
+http://185.189.225.150:85/Cosmo/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM HD" tvg-logo="" group-title="Cine",TCM
 
@@ -983,11 +990,16 @@ https://jmp2.uk/sam-ES4000016U.m3u8
 
 
 #EXTINF:-1 tvg-id="Historia" tvg-logo="" group-title="Documentales",Historia
+http://185.189.225.150:85/Historia/index.m3u8
 
 #EXTINF:-1 tvg-id="Odisea" tvg-logo="" group-title="Documentales",Odisea
+http://185.189.225.150:85/odisea/index.m3u8
 														
 #EXTINF:-1 tvg-logo="" tvg-id="Discovery" group-title="Documentales", Discovery
+http://185.189.225.150:85/Discovery/index.m3u8
 
+#EXTINF:-1 tvg-logo="" tvg-id="Nat Geo" group-title="Documentales", Nat Geo
+http://185.189.225.150:85/natgeo/index.m3u8
 
 #EXTINF:-1 channel-id="ES12000024R" tvg-id="ES12000024R" tvg-chno="" tvg-name="Historia y Vida" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20241106T142227SQUARE.png" group-title="Documentales", Historia y Vida
 https://jmp2.uk/sam-ES12000024R.m3u8
