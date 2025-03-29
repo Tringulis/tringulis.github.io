@@ -524,9 +524,7 @@ http://185.189.225.150:85/neox/index.m3u8
 http://185.189.225.150:85/mega/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/dmax-spain-logo-png_seeklogo-519387.png" tvg-id="DMAX" group-title="Generalistas", DMAX
-#EXTVLCOPT:http-referrer=http://vavoo.to/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-http://vavoo.to/play/1934981639/index.m3u8
+http://vavoo.to/play/1934981639/index.m3u8|Referer=http://vavoo.to/&User-Agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 
 #EXTINF:-1 tvg-id="Nova" tvg-logo="" group-title="Generalistas",Nova
 http://185.189.225.150:85/nova/index.m3u8
