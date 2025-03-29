@@ -730,7 +730,7 @@ http://185.189.225.150:85/Hollywood/index.m3u8
 http://185.189.225.150:85/Paramount/index.m3u8
 
 #EXTINF:-1 tvg-id="Cosmo HD" tvg-logo="" group-title="Cine",Cosmo
-http://185.189.225.150:85/Cosmo/index.m3u8
+ 
 
 #EXTINF:-1 tvg-id="TCM HD" tvg-logo="" group-title="Cine",TCM
 
@@ -738,7 +738,7 @@ http://185.189.225.150:85/Cosmo/index.m3u8
 http://185.189.225.150:85/BOM/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR Channel HD" tvg-logo="" group-title="Cine",STAR Channel
-
+http://185.189.225.150:85/star/index.m3u8
 
 #EXTINF:-1 tvg-id="M+ Comedia HD" tvg-logo="" group-title="Cine",M+ Comedia
 
@@ -875,7 +875,14 @@ https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Series" tvg-name="RTVE Series",RTVE Series
 https://ztnr.rtve.es/ztnr/6922467.m3u8
 
-#EXTINF:-1 tvg-id="Calle 13 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/a/l/xcale13.jpg.pagespeed.ic.aKYk6PRJM-.jpg" group-title="Series" tvg-name="Calle 13 HD",Calle 13
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-logo="https://www.pngitem.com/pimgs/m/75-757385_calle-13-universal-calle-13-logo-png-transparent.png" group-title="Series" tvg-name="Calle 13 HD",Calle 13
+http://185.189.225.150:85/calle13/index.m3u8
+
+#EXTINF:-1 tvg-id="Syfy HD" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Syfy-Logo-2009-500x281.png" group-title="Series" tvg-name="Syfy HD",Syfy
+http://185.189.225.150:85/syfy/index.m3u8
+
+#EXTINF:-1 tvg-id="TCM HD" tvg-logo="https://images.seeklogo.com/logo-png/13/2/tcm-logo-png_seeklogo-136143.png" group-title="Series" tvg-name="TCM HD",TCM
+http://185.189.225.150:85/TCM/index.m3u8
 
 #EXTINF:-1 tvg-id="Atresplayer Clasicos" tvg-logo="https://i.imgur.com/FizKu1X.png" group-title="Series" tvg-name="Atresplayer Clasicos",Atresplayer Clasicos
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/1.m3u8
@@ -990,7 +997,7 @@ https://jmp2.uk/sam-ES4000016U.m3u8
 
 
 #EXTINF:-1 tvg-id="Historia" tvg-logo="" group-title="Documentales",Historia
-http://185.189.225.150:85/Historia/index.m3u8
+http://185.189.225.150:85/historia/index.m3u8
 
 #EXTINF:-1 tvg-id="Odisea" tvg-logo="" group-title="Documentales",Odisea
 http://185.189.225.150:85/odisea/index.m3u8
@@ -999,7 +1006,13 @@ http://185.189.225.150:85/odisea/index.m3u8
 http://185.189.225.150:85/Discovery/index.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="Nat Geo" group-title="Documentales", Nat Geo
-http://185.189.225.150:85/natgeo/index.m3u8
+http://185.189.225.150:85/NationalGeographic/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="National Geographic HD" group-title="Documentales", Nat Geo Wild
+http://185.189.225.150:85/NationalGeographic/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="Nat Geo Wild HD" group-title="Documentales", Nat Geo Wild
+http://185.189.225.150:85/natgeowild/index.m3u8
 
 #EXTINF:-1 channel-id="ES12000024R" tvg-id="ES12000024R" tvg-chno="" tvg-name="Historia y Vida" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20241106T142227SQUARE.png" group-title="Documentales", Historia y Vida
 https://jmp2.uk/sam-ES12000024R.m3u8
@@ -1048,6 +1061,9 @@ https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e455
 
 #EXTINF:-1 tvg-id="LateXou" tvg-logo="https://i.postimg.cc/B6h78qLb/Sin-t-tulo-1.jpg" group-title="Comedia" tvg-name="LateXou",LateXou
 https://ztnr.rtve.es/ztnr/2472037.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://images.seeklogo.com/logo-png/13/2/tcm-logo-png_seeklogo-136143.png" group-title="Series" tvg-name="Comedy Central HD",Comedy Central
+http://185.189.225.150:85/comedycentral/index.m3u8
 
 #EXTINF:-1 channel-id="ESAJ3800005C5" tvg-id="ESAJ3800005C5" tvg-chno="" tvg-name="Comedia Made in Spain" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" group-title="Comedia", Comedia Made in Spain
 https://jmp2.uk/sam-ESAJ3800005C5.m3u8
@@ -1297,6 +1313,8 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 
 														###----- NOTICIAS -----###
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="" group-title="Noticias",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 														
 #EXTINF:-1 channel-id="ESBC1400001L8" tvg-id="ESBC1400001L8" tvg-chno="" tvg-name="El Confidencial" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20241022T050529SQUARE.png" group-title="Noticias", El Confidencial
 https://jmp2.uk/sam-ESBC1400001L8.m3u8
