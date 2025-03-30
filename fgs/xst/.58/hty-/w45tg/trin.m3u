@@ -999,7 +999,6 @@ https://jmp2.uk/sam-ES4000016U.m3u8
 
 
 #EXTINF:-1 tvg-id="Historia" tvg-logo="" group-title="Documentales",Historia
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Historia_2022_Spain.png/revision/latest/scale-to-width-down/200?cb=20230401101057" tvg-id="historia" group-title="Documentales",Historia
 #EXTVLCOPT:http-referrer=http://vavoo.to/
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 http://vavoo.to/play/3568177379/index.m3u8
