@@ -544,7 +544,9 @@ acestream://bbd251f89bc7716e2bef237906ecfba3c562ecde
 https://live.presstv.ir/hls/hispantv.m3u8
 
 #EXTINF:-1 tvg-id="Be mad" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0809019d494375790d229747b0a8c230.webp" group-title="Generalistas" tvg-name="Be Mad",Be Mad
-https://directos.bemad.es/orilinear02/live/linear02/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
+#EXTVLCOPT:http-referrer=mitele
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://directos.mitele.es/orilinear18/live/linear18/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1728471639~exp=1728471818~acl=/*~hmac=64565852af1117b80a07084e90e1f87d368fac232dcc69976d4ddda1370aaa21
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Generalistas" tvg-name="Flooxer",Flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
@@ -997,7 +999,10 @@ https://jmp2.uk/sam-ES4000016U.m3u8
 
 
 #EXTINF:-1 tvg-id="Historia" tvg-logo="" group-title="Documentales",Historia
-http://185.189.225.150:85/historia/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Historia_2022_Spain.png/revision/latest/scale-to-width-down/200?cb=20230401101057" tvg-id="historia" group-title="Documentales",Historia
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+http://vavoo.to/play/3568177379/index.m3u8
 
 #EXTINF:-1 tvg-id="Odisea" tvg-logo="" group-title="Documentales",Odisea
 http://185.189.225.150:85/odisea/index.m3u8
@@ -1005,10 +1010,7 @@ http://185.189.225.150:85/odisea/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Discovery" group-title="Documentales", Discovery
 http://185.189.225.150:85/Discovery/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="Nat Geo" group-title="Documentales", Nat Geo
-http://185.189.225.150:85/NationalGeographic/index.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-id="National Geographic HD" group-title="Documentales", Nat Geo Wild
+#EXTINF:-1 tvg-logo="" tvg-id="National Geographic HD" group-title="Documentales", National Geographic
 http://185.189.225.150:85/NationalGeographic/index.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="Nat Geo Wild HD" group-title="Documentales", Nat Geo Wild
@@ -1313,6 +1315,7 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 
 														###----- NOTICIAS -----###
+														
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="" group-title="Noticias",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 														
