@@ -810,18 +810,18 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-6733bafbc13162592b358672.m3u8
 
 
 														###----- SERIES -----###
-														
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/AQUINHQV/picture?width=200&height=200" group-title="Series" tvg-chno="" tvg-name="Aquí no hay quién viva",Aquí no hay quién viva
-https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Series" tvg-name="RTVE Series",RTVE Series
-https://ztnr.rtve.es/ztnr/6922467.m3u8
 
 #EXTINF:-1 tvg-id="Calle 13 HD" tvg-logo="https://www.pngitem.com/pimgs/m/75-757385_calle-13-universal-calle-13-logo-png-transparent.png" group-title="Series" tvg-name="Calle 13 HD",Calle 13
 http://185.189.225.150:85/calle13/index.m3u8
 
 #EXTINF:-1 tvg-id="Syfy HD" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Syfy-Logo-2009-500x281.png" group-title="Series" tvg-name="Syfy HD",Syfy
 http://185.189.225.150:85/syfy/index.m3u8
+														
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/AQUINHQV/picture?width=200&height=200" group-title="Series" tvg-chno="" tvg-name="Aquí no hay quién viva",Aquí no hay quién viva
+https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Series" tvg-name="RTVE Series",RTVE Series
+https://ztnr.rtve.es/ztnr/6922467.m3u8
 
 #EXTINF:-1 tvg-id="TCM HD" tvg-logo="https://images.seeklogo.com/logo-png/13/2/tcm-logo-png_seeklogo-136143.png" group-title="Series" tvg-name="TCM HD",TCM
 http://185.189.225.150:85/TCM/index.m3u8
@@ -1173,8 +1173,8 @@ https://jmp2.uk/plu-6231ede1be5b460007f91bc1.m3u8
 #EXTINF:-1 tvg-id="MTV España" tvg-logo="" group-title="MTV",MTV España
 
 
-#EXTINF:-1 channel-id="ESAJ3800003LX" tvg-id="ESAJ3800003LX" tvg-chno="" tvg-name="MTV Catfish" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20241022T050742SQUARE.png" group-title="MTV", MTV Catfish
-https://jmp2.uk/sam-ESAJ3800003LX.m3u8
+#EXTINF:-1 channel-id="63eb9495a8b227000841bf64" tvg-id="63eb9495a8b227000841bf64" tvg-chno="" tvg-name="MTV Vergüenza ajena" tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" group-title="MTV", MTV Vergüenza ajena
+https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8
 
 #EXTINF:-1 channel-id="5f1ab3c7778230000735cf41" tvg-id="5f1ab3c7778230000735cf41" tvg-chno="" tvg-name="MTV Catfish TV Show" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="MTV", MTV Catfish TV Show
 https://jmp2.uk/plu-5f1ab3c7778230000735cf41.m3u8
@@ -1211,9 +1211,6 @@ https://jmp2.uk/plu-65786d29dfed030008ce2fa7.m3u8
 
 #EXTINF:-1 channel-id="604f81a49ef73300070e554f" tvg-id="604f81a49ef73300070e554f" tvg-chno="" tvg-name="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="MTV", MTV Teen Mom
 https://jmp2.uk/plu-604f81a49ef73300070e554f.m3u8
-
-#EXTINF:-1 channel-id="63eb9495a8b227000841bf64" tvg-id="63eb9495a8b227000841bf64" tvg-chno="" tvg-name="MTV Vergüenza ajena" tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" group-title="MTV", MTV Vergüenza ajena
-https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8
 
 #EXTINF:-1 channel-id="ESAJ3800006TT" tvg-id="ESAJ3800006TT" tvg-chno="" tvg-name="MTV Cribs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20241106T142236SQUARE.png" group-title="MTV", MTV Cribs
 https://jmp2.uk/sam-ESAJ3800006TT.m3u8
