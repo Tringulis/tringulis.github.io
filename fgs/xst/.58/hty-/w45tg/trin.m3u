@@ -1,5 +1,107 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
+																###----- GENERALISTAS -----###
+
+#EXTINF:-1 tvg-id="La 1 HD" tvg-chno="" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1 HD", La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="La 2 HD" tvg-chno="" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2 HD", La 2
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="TV3.TV" tvg-chno="3" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="Generalistas" tvg-name="TV3", TV3
+https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="324.TV" tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="Generalistas" tvg-name="324", 324
+https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Generalistas" tvg-chno="10", tvg-name="Cuatro HD",Cuatro
+http://185.189.225.150:85/CuatroHD/index.m3u8
+
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-chno="5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Generalistas" tvg-name="Telecinco HD", TeleCinco
+http://185.189.225.150:85/TeleCincoHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="Generalistas", Antena 3
+http://185.189.225.150:85/Antena3HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="Generalistas", La Sexta
+http://185.189.225.150:85/LaSexta/index.m3u8
+
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-logo="" group-title="Generalistas",FDF
+http://185.189.225.150:85/fdf/index.m3u8
+
+#EXTINF:-1 tvg-id="Neox" tvg-logo="" group-title="Generalistas",Neox
+http://185.189.225.150:85/neox/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" tvg-id="Mega" group-title="Generalistas", Mega
+http://185.189.225.150:85/mega/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/mtmad-24h-en-directo-Online-696x392.png" tvg-id="mtmad 24h" group-title="Generalistas", mtmad 24h
+#EXTVLCOPT:http-referrer=mitele
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://directos.mitele.es/orilinear15/live/linear15/main/main.isml/.m3u8?t=1&hdnts=st=1712142298~exp=1714500678~acl=/*~hmac=b6438eeca06351c6cc7626017ea2880b8cf8c9fc819fd7fde83647d5e42ad39f
+
+#EXTINF:-1 tvg-id="Nova" tvg-logo="" group-title="Generalistas",Nova
+http://185.189.225.150:85/nova/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mplus.png" group-title="Generalistas" tvg-id="Movistar Plus+ HD", Movistar Plus+
+acestream://335646e7394ea4eda343c95e57852bb70fc4178f
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mplus.png" group-title="Generalistas" tvg-id="Movistar Plus+ HD", Movistar Plus+
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mplus.png" group-title="Generalistas" tvg-id="Movistar Plus+ 2 HD", Movistar Plus+ 2
+acestream://bbd251f89bc7716e2bef237906ecfba3c562ecde
+
+#EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c401897060d34194cab703c7ebfa15d.webp" group-title="Generalistas" tvg-name="HispanTV",HispanTV
+https://live.presstv.ir/hls/hispantv.m3u8
+
+#EXTINF:-1 tvg-id="Be mad" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0809019d494375790d229747b0a8c230.webp" group-title="Generalistas" tvg-name="Be Mad",Be Mad
+#EXTVLCOPT:http-referrer=mitele
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://directos.mitele.es/orilinear18/live/linear18/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1728471639~exp=1728471818~acl=/*~hmac=64565852af1117b80a07084e90e1f87d368fac232dcc69976d4ddda1370aaa21
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Generalistas" tvg-name="Flooxer",Flooxer
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Generalistas" tvg-name="Star TVE HD",Star TVE
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Generalistas" tvg-name="ATRESPlayer PREMIUM",Atresplayer Premium
+https://fast-channels.atresmedia.com/6107d2846584a82b1f0eb800/6107d2846584a82b1f0eb800.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="Generalistas" tvg-id="ETB1", ETB1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Beteve" tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/t/xbeteve.jpg.pagespeed.ic.Uvm95mlBgP.jpg" group-title="Generalistas" tvg-name="Beteve",Beteve
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+
+#EXTINF:-1 tvg-id="Fibwi" tvg-logo="https://sincomisiones.org/wp-content/uploads/2022/10/fibwi-ico.png" group-title="Generalistas" tvg-name="Fibwi",Fibwi
+https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
+
+#EXTINF:-1 channel-id="ESBD3000002GP" tvg-id="ESBD3000002GP" tvg-chno="" tvg-name="Canal Sur Andalucía" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20241022T050505SQUARE.png" group-title="Generalistas", Canal Sur Andalucía
+https://jmp2.uk/sam-ESBD3000002GP.m3u8
+
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Generalistas" tvg-name="24h",24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 channel-id="ESBC4100004J1" tvg-id="ESBC4100004J1" tvg-chno="" tvg-name="24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20241022T050444SQUARE.png" group-title="Generalistas", 24H
+https://jmp2.uk/sam-ESBC4100004J1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5fc5ZyI.png" group-title="Generalistas" tvg-name="Canal Terrassa",Canal Terrassa
+https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="Generalistas", La Sexta
+acestream://a4378aa93f9f436cfd1654160991f554e5395d88
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="Generalistas", Antena 3
+acestream://c5b1bb99bdee549885d4d680cafbdd0a026239f5
+
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Generalistas" tvg-chno="10", tvg-name="Cuatro HD",Cuatro
+acestream://da60cf19fab0b9e23aab83bb37d61e8b8c3b7655
+
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-chno="5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Generalistas" tvg-name="Telecinco HD", TeleCinco
+acestream://154c6f876ddf1d9c87880eae0d0442335ec156bf
+
 
 											###----- CARRERAS -----###
 
@@ -488,227 +590,62 @@ acestream://f74dcf44f57fc71cb4b0719b3342e569eba50c51
 acestream://916888d956caf960cc8456eb46a12775a858124c
 
 
-																###----- GENERALISTAS -----###
-
-#EXTINF:-1 tvg-id="La 1 HD" tvg-chno="" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1 HD", La 1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="La 2 HD" tvg-chno="" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2 HD", La 2
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="TV3.TV" tvg-chno="3" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="Generalistas" tvg-name="TV3", TV3
-https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
-
-#EXTINF:-1 tvg-id="324.TV" tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="Generalistas" tvg-name="324", 324
-https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
-
-#EXTINF:-1 tvg-id="Cuatro HD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Generalistas" tvg-chno="10", tvg-name="Cuatro HD",Cuatro
-http://185.189.225.150:85/CuatroHD/index.m3u8
-
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-chno="5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Generalistas" tvg-name="Telecinco HD", TeleCinco
-http://185.189.225.150:85/TeleCincoHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="Generalistas", Antena 3
-http://185.189.225.150:85/Antena3HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="Generalistas", La Sexta
-http://185.189.225.150:85/LaSexta/index.m3u8
-
-#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-logo="" group-title="Generalistas",FDF
-http://185.189.225.150:85/fdf/index.m3u8
-
-#EXTINF:-1 tvg-id="Neox" tvg-logo="" group-title="Generalistas",Neox
-http://185.189.225.150:85/neox/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" tvg-id="Mega" group-title="Generalistas", Mega
-http://185.189.225.150:85/mega/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/mtmad-24h-en-directo-Online-696x392.png" tvg-id="mtmad 24h" group-title="Generalistas", mtmad 24h
-#EXTVLCOPT:http-referrer=mitele
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://directos.mitele.es/orilinear15/live/linear15/main/main.isml/.m3u8?t=1&hdnts=st=1712142298~exp=1714500678~acl=/*~hmac=b6438eeca06351c6cc7626017ea2880b8cf8c9fc819fd7fde83647d5e42ad39f
-
-#EXTINF:-1 tvg-id="Nova" tvg-logo="" group-title="Generalistas",Nova
-http://185.189.225.150:85/nova/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mplus.png" group-title="Generalistas" tvg-id="Movistar Plus+ HD", Movistar Plus+
-acestream://335646e7394ea4eda343c95e57852bb70fc4178f
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mplus.png" group-title="Generalistas" tvg-id="Movistar Plus+ HD", Movistar Plus+
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mplus.png" group-title="Generalistas" tvg-id="Movistar Plus+ 2 HD", Movistar Plus+ 2
-acestream://bbd251f89bc7716e2bef237906ecfba3c562ecde
-
-#EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c401897060d34194cab703c7ebfa15d.webp" group-title="Generalistas" tvg-name="HispanTV",HispanTV
-https://live.presstv.ir/hls/hispantv.m3u8
-
-#EXTINF:-1 tvg-id="Be mad" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0809019d494375790d229747b0a8c230.webp" group-title="Generalistas" tvg-name="Be Mad",Be Mad
-#EXTVLCOPT:http-referrer=mitele
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://directos.mitele.es/orilinear18/live/linear18/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1728471639~exp=1728471818~acl=/*~hmac=64565852af1117b80a07084e90e1f87d368fac232dcc69976d4ddda1370aaa21
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Generalistas" tvg-name="Flooxer",Flooxer
-https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Generalistas" tvg-name="Star TVE HD",Star TVE
-https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Generalistas" tvg-name="ATRESPlayer PREMIUM",Atresplayer Premium
-https://fast-channels.atresmedia.com/6107d2846584a82b1f0eb800/6107d2846584a82b1f0eb800.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="Generalistas" tvg-id="ETB1", ETB1
-https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-
-#EXTINF:-1 tvg-id="Beteve" tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/t/xbeteve.jpg.pagespeed.ic.Uvm95mlBgP.jpg" group-title="Generalistas" tvg-name="Beteve",Beteve
-https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-
-#EXTINF:-1 tvg-id="Fibwi" tvg-logo="https://sincomisiones.org/wp-content/uploads/2022/10/fibwi-ico.png" group-title="Generalistas" tvg-name="Fibwi",Fibwi
-https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
-
-#EXTINF:-1 channel-id="ESBD3000002GP" tvg-id="ESBD3000002GP" tvg-chno="" tvg-name="Canal Sur Andalucía" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20241022T050505SQUARE.png" group-title="Generalistas", Canal Sur Andalucía
-https://jmp2.uk/sam-ESBD3000002GP.m3u8
-
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Generalistas" tvg-name="24h",24h
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-#EXTINF:-1 channel-id="ESBC4100004J1" tvg-id="ESBC4100004J1" tvg-chno="" tvg-name="24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20241022T050444SQUARE.png" group-title="Generalistas", 24H
-https://jmp2.uk/sam-ESBC4100004J1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5fc5ZyI.png" group-title="Generalistas" tvg-name="Canal Terrassa",Canal Terrassa
-https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="Generalistas", La Sexta
-acestream://a4378aa93f9f436cfd1654160991f554e5395d88
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="Generalistas", Antena 3
-acestream://c5b1bb99bdee549885d4d680cafbdd0a026239f5
-
-#EXTINF:-1 tvg-id="Cuatro HD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Generalistas" tvg-chno="10", tvg-name="Cuatro HD",Cuatro
-acestream://da60cf19fab0b9e23aab83bb37d61e8b8c3b7655
-
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-chno="5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Generalistas" tvg-name="Telecinco HD", TeleCinco
-acestream://154c6f876ddf1d9c87880eae0d0442335ec156bf
+														###----- DOCUMENTALES -----###
 
 
-														###----- TEMATICOS -----###
+#EXTINF:-1 tvg-id="Historia" tvg-logo="" group-title="Documentales",Historia
+
+
+#EXTINF:-1 tvg-id="Odisea" tvg-logo="" group-title="Documentales",Odisea
+http://185.189.225.150:85/odisea/index.m3u8
 														
-#EXTINF:-1 tvg-logo="" group-title="Tematicos" tvg-name="TravelXP",TravelXP
-https://36c99fb4c50649bf803389624beea453.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TravelXP/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Discovery" group-title="Documentales", Discovery
+http://185.189.225.150:85/Discovery/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Tematicos" tvg-name="3CAT Joc de Cartes",3CAT Joc de Cartes
-https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel1/hls.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="National Geographic HD" group-title="Documentales", National Geographic
+http://185.189.225.150:85/NationalGeographic/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Tematicos" tvg-name="3CAT Plats bruts",3CAT Plats bruts
-https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Nat Geo Wild HD" group-title="Documentales", Nat Geo Wild
+http://185.189.225.150:85/natgeowild/index.m3u8
 
-#EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-name="MTV Originals" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="Tematicos" tvg-chno="552", MTV Originals
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aadf373bed3000794d1d7&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=300&terminate=false&userId=
+#EXTINF:-1 tvg-logo="" tvg-id="DMAX" group-title="Documentales", DMAX
 
-#EXTINF:-1 channel-id="ESAJ380000226" tvg-id="ESAJ380000226" tvg-chno="4066" tvg-name="MTV Originals" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20241022T050331SQUARE.png" group-title="Tematicos", MTV Originals
-https://jmp2.uk/sam-ESAJ380000226.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/EqInvestigacion/picture?width=200&height=200" group-title="Tematicos" tvg-name="Equipo de investigación",Equipo de investigación
-https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
+#EXTINF:-1 channel-id="ES12000024R" tvg-id="ES12000024R" tvg-chno="" tvg-name="Historia y Vida" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20241106T142227SQUARE.png" group-title="Documentales", Historia y Vida
+https://jmp2.uk/sam-ES12000024R.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Tematicos" tvg-name="RTVE Época",RTVE Época
-https://ztnr.rtve.es/ztnr/2472035.m3u8
+#EXTINF:-1 channel-id="ES3200001F1" tvg-id="ES3200001F1" tvg-chno="" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20241106T142245SQUARE.png" group-title="Documentales", BBC Earth
+https://jmp2.uk/sam-ES3200001F1.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Tematicos" tvg-name="RTVE Crimen",RTVE Crimen
-https://ztnr.rtve.es/ztnr/2472037.m3u8
+#EXTINF:-1 channel-id="ESBA22000102A" tvg-id="ESBA22000102A" tvg-chno="" tvg-name="NatureTime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20241022T050748SQUARE.png" group-title="Documentales", NatureTime
+https://jmp2.uk/sam-ESBA22000102A.m3u8
 
-#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="Tematicos" tvg-name="Negocios TV",Negocios TV
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-id="Love thePlanet" tvg-logo="https://fr.themedialeader.com/wp-content/uploads/files/media/images/2023-04/nl2901-Samsung%20TV%20Plus%20et%20Love%20TV%20Channels%20lancent%20%C2%AB%20Love%20The%20Planet%20%C2%BB.jpg" group-title="Documentales", Love ThePlanet
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/360p/index.m3u8
 
-#EXTINF:-1 channel-id="ES26000025M" tvg-id="ES26000025M" tvg-chno="" tvg-name="¡Hola! Play" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000025M_20241210T052650SQUARE.png" group-title="Tematicos", ¡Hola! Play
-https://jmp2.uk/sam-ES26000025M.m3u8
+#EXTINF:-1 tvg-id="Atresplayer Inquietos" tvg-logo="https://i.imgur.com/FizKu1X.png" group-title="Documentales" tvg-name="Atresplayer Inquietos",Atresplayer Inquietos
+https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61/1.m3u8
 
-#EXTINF:-1 channel-id="ES33000025N" tvg-id="ES33000025N" tvg-chno="" tvg-name="Crimen & Historia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20241126T043056SQUARE.png" group-title="Tematicos", Crimen & Historia
-https://jmp2.uk/sam-ES33000025N.m3u8
+#EXTINF:-1 channel-id="ESBD1400003QN" tvg-id="ESBD1400003QN" tvg-chno="" tvg-name="Royalworld - Nobleza y Dinastias" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20241106T142225SQUARE.png" group-title="Documentales", Royalworld - Nobleza y Dinastias
+https://jmp2.uk/sam-ESBD1400003QN.m3u8
 
-#EXTINF:-1 channel-id="ESBA3300033PL" tvg-id="ESBA3300033PL" tvg-chno="" tvg-name="Encantador de Perros" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20241022T050532SQUARE.png" group-title="Tematicos", Encantador de Perros
-https://jmp2.uk/sam-ESBA3300033PL.m3u8
+#EXTINF:-1 channel-id="ES3400002PY" tvg-id="ES3400002PY" tvg-chno="" tvg-name="Surf Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400002PY_20250121T012834SQUARE.png" group-title="Documentales", Surf Channel
+https://jmp2.uk/sam-ES3400002PY.m3u8
 
-#EXTINF:-1 channel-id="ES26000068D" tvg-id="ES26000068D" tvg-chno="" tvg-name="Estilo y Vida – Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png" group-title="Tematicos", Estilo y Vida – Rakuten TV
-https://jmp2.uk/sam-ES26000068D.m3u8
+#EXTINF:-1 channel-id="ESBA330004121" tvg-id="ESBA330004121" tvg-chno="" tvg-name="WildEarth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20241022T051202SQUARE.png" group-title="Documentales", WildEarth
+https://jmp2.uk/sam-ESBA330004121.m3u8
 
-#EXTINF:-1 channel-id="ESBC3500002PW" tvg-id="ESBC3500002PW" tvg-chno="" tvg-name="Ideas en 5 Minutos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png" group-title="Tematicos", Ideas en 5 Minutos
-https://jmp2.uk/sam-ESBC3500002PW.m3u8
+#EXTINF:-1 channel-id="60dd6b1da79e4d0007309455" tvg-id="60dd6b1da79e4d0007309455" tvg-chno="" tvg-name="Nature Time" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="Documentales", Nature Time
+https://jmp2.uk/plu-60dd6b1da79e4d0007309455.m3u8
 
-#EXTINF:-1 channel-id="ESBD1500001SD" tvg-id="ESBD1500001SD" tvg-chno="" tvg-name="Mi chimenea" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20241210T052638SQUARE.png" group-title="Tematicos", Mi chimenea
-https://jmp2.uk/sam-ESBD1500001SD.m3u8
+#EXTINF:-1 channel-id="600ae6a78d801e0007117d21" tvg-id="600ae6a78d801e0007117d21" tvg-chno="" tvg-name="Pluto TV Animales" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="Documentales", Pluto TV Animales
+https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
 
-#EXTINF:-1 channel-id="ESBC1700002IM" tvg-id="ESBC1700002IM" tvg-chno="" tvg-name="Televisión Consciente" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20241022T051120SQUARE.png" group-title="Tematicos", Televisión Consciente
-https://jmp2.uk/sam-ESBC1700002IM.m3u8
+#EXTINF:-1 channel-id="61cd7b49543066000713b620" tvg-id="61cd7b49543066000713b620" tvg-chno="" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="Documentales", Pluto TV Historia
+https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
 
-#EXTINF:-1 channel-id="ESAJ3800007PC" tvg-id="ESAJ3800007PC" tvg-chno="" tvg-name="Pluto TV Cocina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png" group-title="Tematicos", Pluto TV Cocina
-https://jmp2.uk/sam-ESAJ3800007PC.m3u8
-
-#EXTINF:-1 channel-id="ESBC3900002L8" tvg-id="ESBC3900002L8" tvg-chno="" tvg-name="Vivir con Gatos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900002L8_20241022T051153SQUARE.png" group-title="Tematicos", Vivir con Gatos
-https://jmp2.uk/sam-ESBC3900002L8.m3u8
-
-#EXTINF:-1 channel-id="ESBC3900001G6" tvg-id="ESBC3900001G6" tvg-chno="" tvg-name="Vivir con Perros" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900001G6_20241022T051156SQUARE.png" group-title="Tematicos", Vivir con Perros
-https://jmp2.uk/sam-ESBC3900001G6.m3u8
-
-#EXTINF:-1 channel-id="5f984f4a09e92d0007d74647" tvg-id="5f984f4a09e92d0007d74647" tvg-chno="" tvg-name="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png" group-title="Tematicos", Archivos Forenses
-https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
-
-#EXTINF:-1 channel-id="6335a6b6e6f7a600076e589e" tvg-id="6335a6b6e6f7a600076e589e" tvg-chno="" tvg-name="Cazasubastas" tvg-logo="https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png" group-title="Tematicos", Cazasubastas
-https://jmp2.uk/plu-6335a6b6e6f7a600076e589e.m3u8
-
-#EXTINF:-1 channel-id="622f42b831233300078658cc" tvg-id="622f42b831233300078658cc" tvg-chno="" tvg-name="Ciudadanos por el mundo" tvg-logo="https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png" group-title="Tematicos", Ciudadanos por el mundo
-https://jmp2.uk/plu-622f42b831233300078658cc.m3u8
-
-#EXTINF:-1 channel-id="6554bd45aa9ffb00088e5589" tvg-id="6554bd45aa9ffb00088e5589" tvg-chno="" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/colorLogoPNG.png" group-title="Tematicos", COPS
-https://jmp2.uk/plu-6554bd45aa9ffb00088e5589.m3u8
-
-#EXTINF:-1 channel-id="60e45687313c5f0007bc8e94" tvg-id="60e45687313c5f0007bc8e94" tvg-chno="" tvg-name="El encantador de perros" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" group-title="Tematicos", El encantador de perros
-https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
-
-#EXTINF:-1 channel-id="60218baa464ef900073168c1" tvg-id="60218baa464ef900073168c1" tvg-chno="" tvg-name="Empeños a lo bestia" tvg-logo="https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png" group-title="Tematicos", Empeños a lo bestia
-https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
-
-#EXTINF:-1 channel-id="61922be835f3910007fc58f6" tvg-id="61922be835f3910007fc58f6" tvg-chno="" tvg-name="En el punto de mira" tvg-logo="https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png" group-title="Tematicos", En el punto de mira
-https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8
-
-#EXTINF:-1 channel-id="65786abdb3801200084c593a" tvg-id="65786abdb3801200084c593a" tvg-chno="" tvg-name="Homeful" tvg-logo="https://images.pluto.tv/channels/65786abdb3801200084c593a/colorLogoPNG.png" group-title="Tematicos", Homeful
-https://jmp2.uk/plu-65786abdb3801200084c593a.m3u8
-
-#EXTINF:-1 channel-id="61b9edc4a4ca6100070bb407" tvg-id="61b9edc4a4ca6100070bb407" tvg-chno="" tvg-name="Ice Pilots" tvg-logo="https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/colorLogoPNG.png" group-title="Tematicos", Ice Pilots
-https://jmp2.uk/plu-61b9edc4a4ca6100070bb407.m3u8
-
-#EXTINF:-1 channel-id="65254e8d81f9420008342cee" tvg-id="65254e8d81f9420008342cee" tvg-chno="" tvg-name="La fiebre del Jade" tvg-logo="https://images.pluto.tv/channels/65254e8d81f9420008342cee/colorLogoPNG.png" group-title="Tematicos", La fiebre del Jade
-https://jmp2.uk/plu-65254e8d81f9420008342cee.m3u8
-
-#EXTINF:-1 channel-id="60e4573c9f963e00077ecf25" tvg-id="60e4573c9f963e00077ecf25" tvg-chno="" tvg-name="Mi Extraña Obsesión" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" group-title="Tematicos", Mi Extraña Obsesión
-https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
-
-#EXTINF:-1 channel-id="64db2e0835425100080f2f5a" tvg-id="64db2e0835425100080f2f5a" tvg-chno="" tvg-name="Pluto TV Diseño" tvg-logo="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png" group-title="Tematicos", Pluto TV Diseño
-https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
-
-#EXTINF:-1 channel-id="65a6884c07e03a00088e0d6e" tvg-id="65a6884c07e03a00088e0d6e" tvg-chno="" tvg-name="Pluto TV Extremo" tvg-logo="https://images.pluto.tv/channels/65a6884c07e03a00088e0d6e/colorLogoPNG.png" group-title="Tematicos", Pluto TV Extremo
-https://jmp2.uk/plu-65a6884c07e03a00088e0d6e.m3u8
-
-#EXTINF:-1 channel-id="654a35ce346f420008d5c36e" tvg-id="654a35ce346f420008d5c36e" tvg-chno="" tvg-name="Pluto TV Invasión Alien" tvg-logo="https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png" group-title="Tematicos", Pluto TV Invasión Alien
-https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
-
-#EXTINF:-1 channel-id="612ce5214bb5790007ad3016" tvg-id="612ce5214bb5790007ad3016" tvg-chno="" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png" group-title="Tematicos", Pluto TV Paranormal
-https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
-
-#EXTINF:-1 channel-id="6578836cdfed030008ce5bdb" tvg-id="6578836cdfed030008ce5bdb" tvg-chno="" tvg-name="Sí quiero ese vestido" tvg-logo="https://images.pluto.tv/channels/6578836cdfed030008ce5bdb/colorLogoPNG.png" group-title="Tematicos", Sí quiero ese vestido
-https://jmp2.uk/plu-6578836cdfed030008ce5bdb.m3u8
-
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-666e1624d91d13cb4c8cbb67" tvg-id="643054b1fc3be59477853717-666e1624d91d13cb4c8cbb67" tvg-chno="" tvg-name="Buen Viaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/820fe677-05d1-49d1-ae4d-e109423ba2d9/channel_logo_1500x1000_lightRDX.png" group-title="Tematicos", Buen Viaje
-https://jmp2.uk/plex-643054b1fc3be59477853717-666e1624d91d13cb4c8cbb67.m3u8
-
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-621674f168c966be92737ce6" tvg-id="643054b1fc3be59477853717-621674f168c966be92737ce6" tvg-chno="" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="Tematicos", El Conflicto TV
-https://jmp2.uk/plex-643054b1fc3be59477853717-621674f168c966be92737ce6.m3u8
-
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-666e1d14d91d13cb4c8cbb73" tvg-id="643054b1fc3be59477853717-666e1d14d91d13cb4c8cbb73" tvg-chno="" tvg-name="Mi Casa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/024f4cb9-2765-4ec5-b222-dc3388106f16/channel_logo_1500x1000_light.png.png" group-title="Tematicos", Mi Casa
-https://jmp2.uk/plex-643054b1fc3be59477853717-666e1d14d91d13cb4c8cbb73.m3u8
-
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-6154a863e3e4d9577f96b31a" tvg-id="643054b1fc3be59477853717-6154a863e3e4d9577f96b31a" tvg-chno="" tvg-name="Nosey Escándalos" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" group-title="Tematicos", Nosey Escándalos
-https://jmp2.uk/plex-643054b1fc3be59477853717-6154a863e3e4d9577f96b31a.m3u8
+#EXTINF:-1 channel-id="ES2600005G9" tvg-id="ES2600005G9" tvg-chno="" tvg-name="Crimen - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png" group-title="Documentales", Crimen - Rakuten TV
+https://jmp2.uk/sam-ES2600005G9.m3u8
 
 
 														###----- CINE -----###
@@ -997,64 +934,118 @@ https://jmp2.uk/plu-65786e2c32c1b300089a4d21.m3u8
 #EXTINF:-1 channel-id="ES4000016U" tvg-id="ES4000016U" tvg-chno="4233" tvg-name="Acacias 38" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4000016U_20241022T050446SQUARE.png" group-title="Series", Acacias 38
 https://jmp2.uk/sam-ES4000016U.m3u8
 
-
-														###----- DOCUMENTALES -----###
-
-
-#EXTINF:-1 tvg-id="Historia" tvg-logo="" group-title="Documentales",Historia
-
-
-#EXTINF:-1 tvg-id="Odisea" tvg-logo="" group-title="Documentales",Odisea
-http://185.189.225.150:85/odisea/index.m3u8
+														###----- TEMATICOS -----###
 														
-#EXTINF:-1 tvg-logo="" tvg-id="Discovery" group-title="Documentales", Discovery
-http://185.189.225.150:85/Discovery/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Travelxp.png" group-title="Tematicos" tvg-name="TravelXP",TravelXP
+https://36c99fb4c50649bf803389624beea453.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TravelXP/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="National Geographic HD" group-title="Documentales", National Geographic
-http://185.189.225.150:85/NationalGeographic/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Tematicos" tvg-name="3CAT Joc de Cartes",3CAT Joc de Cartes
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel1/hls.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="Nat Geo Wild HD" group-title="Documentales", Nat Geo Wild
-http://185.189.225.150:85/natgeowild/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Tematicos" tvg-name="3CAT Plats bruts",3CAT Plats bruts
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="DMAX" group-title="Documentales", DMAX
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://vavoo.to/play/1934981639/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/EqInvestigacion/picture?width=200&height=200" group-title="Tematicos" tvg-name="Equipo de investigación",Equipo de investigación
+https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 
-#EXTINF:-1 channel-id="ES12000024R" tvg-id="ES12000024R" tvg-chno="" tvg-name="Historia y Vida" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20241106T142227SQUARE.png" group-title="Documentales", Historia y Vida
-https://jmp2.uk/sam-ES12000024R.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Tematicos" tvg-name="RTVE Época",RTVE Época
+https://ztnr.rtve.es/ztnr/2472035.m3u8
 
-#EXTINF:-1 channel-id="ES3200001F1" tvg-id="ES3200001F1" tvg-chno="" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20241106T142245SQUARE.png" group-title="Documentales", BBC Earth
-https://jmp2.uk/sam-ES3200001F1.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Tematicos" tvg-name="RTVE Crimen",RTVE Crimen
+https://ztnr.rtve.es/ztnr/2472037.m3u8
 
-#EXTINF:-1 channel-id="ESBA22000102A" tvg-id="ESBA22000102A" tvg-chno="" tvg-name="NatureTime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20241022T050748SQUARE.png" group-title="Documentales", NatureTime
-https://jmp2.uk/sam-ESBA22000102A.m3u8
+#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="Tematicos" tvg-name="Negocios TV",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1 tvg-id="Love thePlanet" tvg-logo="https://fr.themedialeader.com/wp-content/uploads/files/media/images/2023-04/nl2901-Samsung%20TV%20Plus%20et%20Love%20TV%20Channels%20lancent%20%C2%AB%20Love%20The%20Planet%20%C2%BB.jpg" group-title="Documentales", Love ThePlanet
-https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/360p/index.m3u8
+#EXTINF:-1 channel-id="ES26000025M" tvg-id="ES26000025M" tvg-chno="" tvg-name="¡Hola! Play" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000025M_20241210T052650SQUARE.png" group-title="Tematicos", ¡Hola! Play
+https://jmp2.uk/sam-ES26000025M.m3u8
 
-#EXTINF:-1 tvg-id="Atresplayer Inquietos" tvg-logo="https://i.imgur.com/FizKu1X.png" group-title="Documentales" tvg-name="Atresplayer Inquietos",Atresplayer Inquietos
-https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61/1.m3u8
+#EXTINF:-1 channel-id="ES33000025N" tvg-id="ES33000025N" tvg-chno="" tvg-name="Crimen & Historia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20241126T043056SQUARE.png" group-title="Tematicos", Crimen & Historia
+https://jmp2.uk/sam-ES33000025N.m3u8
 
-#EXTINF:-1 channel-id="ESBD1400003QN" tvg-id="ESBD1400003QN" tvg-chno="" tvg-name="Royalworld - Nobleza y Dinastias" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20241106T142225SQUARE.png" group-title="Documentales", Royalworld - Nobleza y Dinastias
-https://jmp2.uk/sam-ESBD1400003QN.m3u8
+#EXTINF:-1 channel-id="ESBA3300033PL" tvg-id="ESBA3300033PL" tvg-chno="" tvg-name="Encantador de Perros" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20241022T050532SQUARE.png" group-title="Tematicos", Encantador de Perros
+https://jmp2.uk/sam-ESBA3300033PL.m3u8
 
-#EXTINF:-1 channel-id="ES3400002PY" tvg-id="ES3400002PY" tvg-chno="" tvg-name="Surf Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400002PY_20250121T012834SQUARE.png" group-title="Documentales", Surf Channel
-https://jmp2.uk/sam-ES3400002PY.m3u8
+#EXTINF:-1 channel-id="ES26000068D" tvg-id="ES26000068D" tvg-chno="" tvg-name="Estilo y Vida – Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png" group-title="Tematicos", Estilo y Vida – Rakuten TV
+https://jmp2.uk/sam-ES26000068D.m3u8
 
-#EXTINF:-1 channel-id="ESBA330004121" tvg-id="ESBA330004121" tvg-chno="" tvg-name="WildEarth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20241022T051202SQUARE.png" group-title="Documentales", WildEarth
-https://jmp2.uk/sam-ESBA330004121.m3u8
+#EXTINF:-1 channel-id="ESBC3500002PW" tvg-id="ESBC3500002PW" tvg-chno="" tvg-name="Ideas en 5 Minutos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png" group-title="Tematicos", Ideas en 5 Minutos
+https://jmp2.uk/sam-ESBC3500002PW.m3u8
 
-#EXTINF:-1 channel-id="60dd6b1da79e4d0007309455" tvg-id="60dd6b1da79e4d0007309455" tvg-chno="" tvg-name="Nature Time" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="Documentales", Nature Time
-https://jmp2.uk/plu-60dd6b1da79e4d0007309455.m3u8
+#EXTINF:-1 channel-id="ESBD1500001SD" tvg-id="ESBD1500001SD" tvg-chno="" tvg-name="Mi chimenea" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20241210T052638SQUARE.png" group-title="Tematicos", Mi chimenea
+https://jmp2.uk/sam-ESBD1500001SD.m3u8
 
-#EXTINF:-1 channel-id="600ae6a78d801e0007117d21" tvg-id="600ae6a78d801e0007117d21" tvg-chno="" tvg-name="Pluto TV Animales" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="Documentales", Pluto TV Animales
-https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
+#EXTINF:-1 channel-id="ESBC1700002IM" tvg-id="ESBC1700002IM" tvg-chno="" tvg-name="Televisión Consciente" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20241022T051120SQUARE.png" group-title="Tematicos", Televisión Consciente
+https://jmp2.uk/sam-ESBC1700002IM.m3u8
 
-#EXTINF:-1 channel-id="61cd7b49543066000713b620" tvg-id="61cd7b49543066000713b620" tvg-chno="" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="Documentales", Pluto TV Historia
-https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
+#EXTINF:-1 channel-id="ESAJ3800007PC" tvg-id="ESAJ3800007PC" tvg-chno="" tvg-name="Pluto TV Cocina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png" group-title="Tematicos", Pluto TV Cocina
+https://jmp2.uk/sam-ESAJ3800007PC.m3u8
 
-#EXTINF:-1 channel-id="ES2600005G9" tvg-id="ES2600005G9" tvg-chno="" tvg-name="Crimen - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png" group-title="Documentales", Crimen - Rakuten TV
-https://jmp2.uk/sam-ES2600005G9.m3u8
+#EXTINF:-1 channel-id="ESBC3900002L8" tvg-id="ESBC3900002L8" tvg-chno="" tvg-name="Vivir con Gatos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900002L8_20241022T051153SQUARE.png" group-title="Tematicos", Vivir con Gatos
+https://jmp2.uk/sam-ESBC3900002L8.m3u8
+
+#EXTINF:-1 channel-id="ESBC3900001G6" tvg-id="ESBC3900001G6" tvg-chno="" tvg-name="Vivir con Perros" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900001G6_20241022T051156SQUARE.png" group-title="Tematicos", Vivir con Perros
+https://jmp2.uk/sam-ESBC3900001G6.m3u8
+
+#EXTINF:-1 channel-id="5f984f4a09e92d0007d74647" tvg-id="5f984f4a09e92d0007d74647" tvg-chno="" tvg-name="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png" group-title="Tematicos", Archivos Forenses
+https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
+
+#EXTINF:-1 channel-id="6335a6b6e6f7a600076e589e" tvg-id="6335a6b6e6f7a600076e589e" tvg-chno="" tvg-name="Cazasubastas" tvg-logo="https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png" group-title="Tematicos", Cazasubastas
+https://jmp2.uk/plu-6335a6b6e6f7a600076e589e.m3u8
+
+#EXTINF:-1 channel-id="622f42b831233300078658cc" tvg-id="622f42b831233300078658cc" tvg-chno="" tvg-name="Ciudadanos por el mundo" tvg-logo="https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png" group-title="Tematicos", Ciudadanos por el mundo
+https://jmp2.uk/plu-622f42b831233300078658cc.m3u8
+
+#EXTINF:-1 channel-id="6554bd45aa9ffb00088e5589" tvg-id="6554bd45aa9ffb00088e5589" tvg-chno="" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/colorLogoPNG.png" group-title="Tematicos", COPS
+https://jmp2.uk/plu-6554bd45aa9ffb00088e5589.m3u8
+
+#EXTINF:-1 channel-id="60e45687313c5f0007bc8e94" tvg-id="60e45687313c5f0007bc8e94" tvg-chno="" tvg-name="El encantador de perros" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" group-title="Tematicos", El encantador de perros
+https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
+
+#EXTINF:-1 channel-id="60218baa464ef900073168c1" tvg-id="60218baa464ef900073168c1" tvg-chno="" tvg-name="Empeños a lo bestia" tvg-logo="https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png" group-title="Tematicos", Empeños a lo bestia
+https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
+
+#EXTINF:-1 channel-id="61922be835f3910007fc58f6" tvg-id="61922be835f3910007fc58f6" tvg-chno="" tvg-name="En el punto de mira" tvg-logo="https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png" group-title="Tematicos", En el punto de mira
+https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8
+
+#EXTINF:-1 channel-id="65786abdb3801200084c593a" tvg-id="65786abdb3801200084c593a" tvg-chno="" tvg-name="Homeful" tvg-logo="https://images.pluto.tv/channels/65786abdb3801200084c593a/colorLogoPNG.png" group-title="Tematicos", Homeful
+https://jmp2.uk/plu-65786abdb3801200084c593a.m3u8
+
+#EXTINF:-1 channel-id="61b9edc4a4ca6100070bb407" tvg-id="61b9edc4a4ca6100070bb407" tvg-chno="" tvg-name="Ice Pilots" tvg-logo="https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/colorLogoPNG.png" group-title="Tematicos", Ice Pilots
+https://jmp2.uk/plu-61b9edc4a4ca6100070bb407.m3u8
+
+#EXTINF:-1 channel-id="65254e8d81f9420008342cee" tvg-id="65254e8d81f9420008342cee" tvg-chno="" tvg-name="La fiebre del Jade" tvg-logo="https://images.pluto.tv/channels/65254e8d81f9420008342cee/colorLogoPNG.png" group-title="Tematicos", La fiebre del Jade
+https://jmp2.uk/plu-65254e8d81f9420008342cee.m3u8
+
+#EXTINF:-1 channel-id="60e4573c9f963e00077ecf25" tvg-id="60e4573c9f963e00077ecf25" tvg-chno="" tvg-name="Mi Extraña Obsesión" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" group-title="Tematicos", Mi Extraña Obsesión
+https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
+
+#EXTINF:-1 channel-id="64db2e0835425100080f2f5a" tvg-id="64db2e0835425100080f2f5a" tvg-chno="" tvg-name="Pluto TV Diseño" tvg-logo="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png" group-title="Tematicos", Pluto TV Diseño
+https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
+
+#EXTINF:-1 channel-id="65a6884c07e03a00088e0d6e" tvg-id="65a6884c07e03a00088e0d6e" tvg-chno="" tvg-name="Pluto TV Extremo" tvg-logo="https://images.pluto.tv/channels/65a6884c07e03a00088e0d6e/colorLogoPNG.png" group-title="Tematicos", Pluto TV Extremo
+https://jmp2.uk/plu-65a6884c07e03a00088e0d6e.m3u8
+
+#EXTINF:-1 channel-id="654a35ce346f420008d5c36e" tvg-id="654a35ce346f420008d5c36e" tvg-chno="" tvg-name="Pluto TV Invasión Alien" tvg-logo="https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png" group-title="Tematicos", Pluto TV Invasión Alien
+https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
+
+#EXTINF:-1 channel-id="612ce5214bb5790007ad3016" tvg-id="612ce5214bb5790007ad3016" tvg-chno="" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png" group-title="Tematicos", Pluto TV Paranormal
+https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
+
+#EXTINF:-1 channel-id="6578836cdfed030008ce5bdb" tvg-id="6578836cdfed030008ce5bdb" tvg-chno="" tvg-name="Sí quiero ese vestido" tvg-logo="https://images.pluto.tv/channels/6578836cdfed030008ce5bdb/colorLogoPNG.png" group-title="Tematicos", Sí quiero ese vestido
+https://jmp2.uk/plu-6578836cdfed030008ce5bdb.m3u8
+
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-666e1624d91d13cb4c8cbb67" tvg-id="643054b1fc3be59477853717-666e1624d91d13cb4c8cbb67" tvg-chno="" tvg-name="Buen Viaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/820fe677-05d1-49d1-ae4d-e109423ba2d9/channel_logo_1500x1000_lightRDX.png" group-title="Tematicos", Buen Viaje
+https://jmp2.uk/plex-643054b1fc3be59477853717-666e1624d91d13cb4c8cbb67.m3u8
+
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-621674f168c966be92737ce6" tvg-id="643054b1fc3be59477853717-621674f168c966be92737ce6" tvg-chno="" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="Tematicos", El Conflicto TV
+https://jmp2.uk/plex-643054b1fc3be59477853717-621674f168c966be92737ce6.m3u8
+
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-666e1d14d91d13cb4c8cbb73" tvg-id="643054b1fc3be59477853717-666e1d14d91d13cb4c8cbb73" tvg-chno="" tvg-name="Mi Casa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/024f4cb9-2765-4ec5-b222-dc3388106f16/channel_logo_1500x1000_light.png.png" group-title="Tematicos", Mi Casa
+https://jmp2.uk/plex-643054b1fc3be59477853717-666e1d14d91d13cb4c8cbb73.m3u8
+
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-6154a863e3e4d9577f96b31a" tvg-id="643054b1fc3be59477853717-6154a863e3e4d9577f96b31a" tvg-chno="" tvg-name="Nosey Escándalos" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" group-title="Tematicos", Nosey Escándalos
+https://jmp2.uk/plex-643054b1fc3be59477853717-6154a863e3e4d9577f96b31a.m3u8
 														
 
 														###----- COMEDIA -----###
@@ -1068,7 +1059,7 @@ https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e455
 #EXTINF:-1 tvg-id="LateXou" tvg-logo="https://i.postimg.cc/B6h78qLb/Sin-t-tulo-1.jpg" group-title="Comedia" tvg-name="LateXou",LateXou
 https://ztnr.rtve.es/ztnr/2472037.m3u8
 
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://images.seeklogo.com/logo-png/13/2/tcm-logo-png_seeklogo-136143.png" group-title="Series" tvg-name="Comedy Central HD",Comedy Central
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://images.seeklogo.com/logo-png/13/2/tcm-logo-png_seeklogo-136143.png" group-title="Comedia" tvg-name="Comedy Central HD",Comedy Central
 http://185.189.225.150:85/comedycentral/index.m3u8
 
 #EXTINF:-1 channel-id="ESAJ3800005C5" tvg-id="ESAJ3800005C5" tvg-chno="" tvg-name="Comedia Made in Spain" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" group-title="Comedia", Comedia Made in Spain
@@ -1157,6 +1148,134 @@ acestream://6791a2d1587e8c68eac10815f22aed439b0f6c9f
 
 #EXTINF:-1 tvg-chno="" tvg-name="AutoMotor Sport Channel" tvg-logo="https://www.hdtv-sender.com/wp-content/uploads/2013/01/auto-motor-sport-channel.jpg" group-title="Motor", AutoMotorSport
 acestream://610993aea3a2bfd509594334b7461ce96900f54c
+
+
+														###----- NOTICIAS -----###
+																												
+#EXTINF:-1 channel-id="ESBC1400001L8" tvg-id="ESBC1400001L8" tvg-chno="" tvg-name="El Confidencial" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20241022T050529SQUARE.png" group-title="Noticias", El Confidencial
+https://jmp2.uk/sam-ESBC1400001L8.m3u8
+
+#EXTINF:-1 channel-id="ESBC39000033J" tvg-id="ESBC39000033J" tvg-chno="" tvg-name="El País" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20241106T142306SQUARE.png" group-title="Noticias", El País
+https://jmp2.uk/sam-ESBC39000033J.m3u8
+
+#EXTINF:-1 channel-id="ES260000968" tvg-id="ES260000968" tvg-chno="" tvg-name="Euronews EN DIRECTO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000968_20250121T012824SQUARE.png" group-title="Noticias", Euronews EN DIRECTO
+https://jmp2.uk/sam-ES260000968.m3u8
+
+#EXTINF:-1 channel-id="ESBD3400001AA" tvg-id="ESBD3400001AA" tvg-chno="" tvg-name="Negocios TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20241022T050601SQUARE.png" group-title="Noticias", Negocios TV
+https://jmp2.uk/sam-ESBD3400001AA.m3u8
+
+#EXTINF:-1 channel-id="6231ede1be5b460007f91bc1" tvg-id="6231ede1be5b460007f91bc1" tvg-chno="" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png" group-title="Noticias", CBS News 24/7
+https://jmp2.uk/plu-6231ede1be5b460007f91bc1.m3u8
+			
+
+														###----- MTV -----###
+
+#EXTINF:-1 tvg-id="MTV España" tvg-logo="" group-title="MTV",MTV España
+
+
+#EXTINF:-1 channel-id="ESAJ3800003LX" tvg-id="ESAJ3800003LX" tvg-chno="" tvg-name="MTV Catfish" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20241022T050742SQUARE.png" group-title="MTV", MTV Catfish
+https://jmp2.uk/sam-ESAJ3800003LX.m3u8
+
+#EXTINF:-1 channel-id="5f1ab3c7778230000735cf41" tvg-id="5f1ab3c7778230000735cf41" tvg-chno="" tvg-name="MTV Catfish TV Show" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="MTV", MTV Catfish TV Show
+https://jmp2.uk/plu-5f1ab3c7778230000735cf41.m3u8
+
+#EXTINF:-1 channel-id="5f98537a5a4341000733aefe" tvg-id="5f98537a5a4341000733aefe" tvg-chno="" tvg-name="MTV Embarazada a los 16" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="MTV", MTV Embarazada a los 16
+https://jmp2.uk/plu-5f98537a5a4341000733aefe.m3u8
+
+#EXTINF:-1 channel-id="6686796619311200085310a0" tvg-id="6686796619311200085310a0" tvg-chno="" tvg-name="MTV Flow Latino" tvg-logo="https://images.pluto.tv/channels/6686796619311200085310a0/colorLogoPNG.png" group-title="Música", MTV Flow Latino
+https://jmp2.uk/plu-6686796619311200085310a0.m3u8
+
+#EXTINF:-1 channel-id="627d3176d7dfa500077042f1" tvg-id="627d3176d7dfa500077042f1" tvg-chno="" tvg-name="MTV Geordies" tvg-logo="https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png" group-title="MTV", MTV Geordies
+https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8
+
+#EXTINF:-1 channel-id="62ac3d7dc23b400008ae5b5a" tvg-id="62ac3d7dc23b400008ae5b5a" tvg-chno="" tvg-name="MTV Jerseys" tvg-logo="https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png" group-title="MTV", MTV Jerseys
+https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8
+
+#EXTINF:-1 channel-id="60a26a056d55b30007918d5a" tvg-id="60a26a056d55b30007918d5a" tvg-chno="" tvg-name="MTV Music Made in Spain" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="Música", MTV Music Made in Spain
+https://jmp2.uk/plu-60a26a056d55b30007918d5a.m3u8
+
+#EXTINF:-1 channel-id="668677b774f5ec0008124f33" tvg-id="668677b774f5ec0008124f33" tvg-chno="" tvg-name="MTV New Music" tvg-logo="https://images.pluto.tv/channels/668677b774f5ec0008124f33/colorLogoPNG.png" group-title="Música", MTV New Music
+https://jmp2.uk/plu-668677b774f5ec0008124f33.m3u8
+
+#EXTINF:-1 channel-id="5f1aadf373bed3000794d1d7" tvg-id="5f1aadf373bed3000794d1d7" tvg-chno="" tvg-name="MTV Originals" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="MTV", MTV Originals
+https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
+
+#EXTINF:-1 channel-id="61ea759737679900078ff559" tvg-id="61ea759737679900078ff559" tvg-chno="" tvg-name="MTV Party Music" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="Música", MTV Party Music
+https://jmp2.uk/plu-61ea759737679900078ff559.m3u8
+
+#EXTINF:-1 channel-id="6130d8dc943001000708548d" tvg-id="6130d8dc943001000708548d" tvg-chno="" tvg-name="MTV Realities" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png" group-title="MTV", MTV Realities
+https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8
+
+#EXTINF:-1 channel-id="65786d29dfed030008ce2fa7" tvg-id="65786d29dfed030008ce2fa7" tvg-chno="" tvg-name="MTV Rock" tvg-logo="https://images.pluto.tv/channels/65786d29dfed030008ce2fa7/colorLogoPNG.png" group-title="Música", MTV Rock
+https://jmp2.uk/plu-65786d29dfed030008ce2fa7.m3u8
+
+#EXTINF:-1 channel-id="604f81a49ef73300070e554f" tvg-id="604f81a49ef73300070e554f" tvg-chno="" tvg-name="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="MTV", MTV Teen Mom
+https://jmp2.uk/plu-604f81a49ef73300070e554f.m3u8
+
+#EXTINF:-1 channel-id="63eb9495a8b227000841bf64" tvg-id="63eb9495a8b227000841bf64" tvg-chno="" tvg-name="MTV Vergüenza ajena" tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" group-title="MTV", MTV Vergüenza ajena
+https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8
+
+#EXTINF:-1 channel-id="ESAJ3800006TT" tvg-id="ESAJ3800006TT" tvg-chno="" tvg-name="MTV Cribs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20241106T142236SQUARE.png" group-title="MTV", MTV Cribs
+https://jmp2.uk/sam-ESAJ3800006TT.m3u8
+
+														
+														###----- MUSICA -----###
+
+#EXTINF:-1 channel-id="ES32000027M" tvg-id="ES32000027M" tvg-chno="4748" tvg-name="CLIPS don´t Lie" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES32000027M_20250107T024929SQUARE.png" group-title="Música", CLIPS don´t Lie
+https://jmp2.uk/sam-ES32000027M.m3u8
+
+#EXTINF:-1 channel-id="ES2500001F9" tvg-id="ES2500001F9" tvg-chno="4742" tvg-name="Cool Summer Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2500001F9_20241023T143110SQUARE.png" group-title="Música", Cool Summer Channel
+https://jmp2.uk/sam-ES2500001F9.m3u8
+
+#EXTINF:-1 channel-id="ESBA1500001C4" tvg-id="ESBA1500001C4" tvg-chno="4761" tvg-name="Deluxe Lounge HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1500001C4_20241022T050252SQUARE.png" group-title="Música", Deluxe Lounge HD
+https://jmp2.uk/sam-ESBA1500001C4.m3u8
+
+#EXTINF:-1 channel-id="ES3900001QG" tvg-id="ES3900001QG" tvg-chno="4750" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20241105T025339SQUARE.png" group-title="Música", K-POP by CJ ENM
+https://jmp2.uk/sam-ES3900001QG.m3u8
+
+#EXTINF:-1 channel-id="ESBD2300004Y7" tvg-id="ESBD2300004Y7" tvg-chno="4740" tvg-name="Sol Música" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png" group-title="Música", Sol Música
+https://jmp2.uk/sam-ESBD2300004Y7.m3u8
+
+#EXTINF:-1 channel-id="ES1900001OE" tvg-id="ES1900001OE" tvg-chno="4707" tvg-name="Staccs Music TV 80’s Hits" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1900001OE_20241022T051102SQUARE.png" group-title="Música", Staccs Music TV 80’s Hits
+https://jmp2.uk/sam-ES1900001OE.m3u8
+
+#EXTINF:-1 channel-id="ESBD270000108" tvg-id="ESBD270000108" tvg-chno="4705" tvg-name="Staccs Music TV Greatest Hits" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD270000108_20241106T142327SQUARE.png" group-title="Música", Staccs Music TV Greatest Hits
+https://jmp2.uk/sam-ESBD270000108.m3u8
+
+#EXTINF:-1 channel-id="ESBA3300042Y6" tvg-id="ESBA3300042Y6" tvg-chno="4694" tvg-name="Trace Latina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20241022T051129SQUARE.png" group-title="Música", Trace Latina
+https://jmp2.uk/sam-ESBA3300042Y6.m3u8
+
+#EXTINF:-1 channel-id="ESBA3300043M0" tvg-id="ESBA3300043M0" tvg-chno="4696" tvg-name="Trace Urban" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20241022T051131SQUARE.png" group-title="Música", Trace Urban
+https://jmp2.uk/sam-ESBA3300043M0.m3u8
+
+#EXTINF:-1 channel-id="ESBD230000289" tvg-id="ESBD230000289" tvg-chno="4685" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20241022T051142SQUARE.png" group-title="Música", Vevo '70s & '80s
+https://jmp2.uk/sam-ESBD230000289.m3u8
+
+#EXTINF:-1 channel-id="ESBC2100002LV" tvg-id="ESBC2100002LV" tvg-chno="4683" tvg-name="Vevo Latino" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20241022T051144SQUARE.png" group-title="Música", Vevo Latino
+https://jmp2.uk/sam-ESBC2100002LV.m3u8
+
+#EXTINF:-1 channel-id="ESBC2100001IU" tvg-id="ESBC2100001IU" tvg-chno="4689" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20241022T051146SQUARE.png" group-title="Música", Vevo Pop
+https://jmp2.uk/sam-ESBC2100001IU.m3u8
+
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-62efba6588a16bb7d6b6fb58" tvg-id="643054b1fc3be59477853717-62efba6588a16bb7d6b6fb58" tvg-chno="" tvg-name="Éxitos del Momento" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png" group-title="Música", Éxitos del Momento
+https://jmp2.uk/plex-643054b1fc3be59477853717-62efba6588a16bb7d6b6fb58.m3u8
+
+#EXTINF:-1 channel-id="668677f7fd9eb200087b673a" tvg-id="668677f7fd9eb200087b673a" tvg-chno="628" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/668677f7fd9eb200087b673a/colorLogoPNG.png" group-title="Música", MTV Biggest Pop
+https://jmp2.uk/plu-668677f7fd9eb200087b673a.m3u8
+
+#EXTINF:-1 channel-id="65787eab32c1b300089a84d7" tvg-id="65787eab32c1b300089a84d7" tvg-chno="624" tvg-name="MTV Reggaeton" tvg-logo="https://images.pluto.tv/channels/65787eab32c1b300089a84d7/colorLogoPNG.png" group-title="Música", MTV Reggaeton
+https://jmp2.uk/plu-65787eab32c1b300089a84d7.m3u8
+
+#EXTINF:-1 channel-id="65eeffc50d4561000836f191" tvg-id="65eeffc50d4561000836f191" tvg-chno="453" tvg-name="PRIDEtv" tvg-logo="https://images.pluto.tv/channels/65eeffc50d4561000836f191/colorLogoPNG.png" group-title="Música", PRIDEtv
+https://jmp2.uk/plu-65eeffc50d4561000836f191.m3u8
+
+#EXTINF:-1 channel-id="6076cd1df8576d0007c82193" tvg-id="6076cd1df8576d0007c82193" tvg-chno="620" tvg-name="VH1 Classics" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Música", VH1 Classics
+https://jmp2.uk/plu-6076cd1df8576d0007c82193.m3u8
+
+#EXTINF:-1 channel-id="668678bc0642e500080f90c6" tvg-id="668678bc0642e500080f90c6" tvg-chno="626" tvg-name="Yo! MTV" tvg-logo="https://images.pluto.tv/channels/668678bc0642e500080f90c6/colorLogoPNG.png" group-title="Música", Yo! MTV
+https://jmp2.uk/plu-668678bc0642e500080f90c6.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/del40al1/picture?width=200&height=200" group-title="Música" tvg-name="Del 40 al 1",Del 40 al 1
 
 
 														###----- INFANTILES -----###
@@ -1290,9 +1409,6 @@ https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
 #EXTINF:-1 channel-id="5f1aab1d29b39600073e243f" tvg-id="5f1aab1d29b39600073e243f" tvg-chno="514" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png" group-title="Infantiles", Pluto TV Kids
 https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
 
-#EXTINF:-1 channel-id="6228b6a38717420007375848" tvg-id="6228b6a38717420007375848" tvg-chno="511" tvg-name="Pluto TV Kids Ukraine" tvg-logo="https://images.pluto.tv/channels/6228b6a38717420007375848/colorLogoPNG.png" group-title="Infantiles", Pluto TV Kids Ukraine
-https://jmp2.uk/plu-6228b6a38717420007375848.m3u8
-
 #EXTINF:-1 channel-id="63eb944dc111bc0008fe7021" tvg-id="63eb944dc111bc0008fe7021" tvg-chno="508" tvg-name="Pluto TV Teen" tvg-logo="https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG.png" group-title="Infantiles", Pluto TV Teen
 https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
 
@@ -1316,144 +1432,6 @@ https://jmp2.uk/plu-6511a53f473a54000854e2ee.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
-
-														###----- NOTICIAS -----###
-														
-#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="" group-title="Noticias",DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-														
-#EXTINF:-1 channel-id="ESBC1400001L8" tvg-id="ESBC1400001L8" tvg-chno="" tvg-name="El Confidencial" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20241022T050529SQUARE.png" group-title="Noticias", El Confidencial
-https://jmp2.uk/sam-ESBC1400001L8.m3u8
-
-#EXTINF:-1 channel-id="ESBC39000033J" tvg-id="ESBC39000033J" tvg-chno="" tvg-name="El País" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20241106T142306SQUARE.png" group-title="Noticias", El País
-https://jmp2.uk/sam-ESBC39000033J.m3u8
-
-#EXTINF:-1 channel-id="ES260000968" tvg-id="ES260000968" tvg-chno="" tvg-name="Euronews EN DIRECTO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000968_20250121T012824SQUARE.png" group-title="Noticias", Euronews EN DIRECTO
-https://jmp2.uk/sam-ES260000968.m3u8
-
-#EXTINF:-1 channel-id="ESBD3400001AA" tvg-id="ESBD3400001AA" tvg-chno="" tvg-name="Negocios TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20241022T050601SQUARE.png" group-title="Noticias", Negocios TV
-https://jmp2.uk/sam-ESBD3400001AA.m3u8
-
-#EXTINF:-1 channel-id="6231ede1be5b460007f91bc1" tvg-id="6231ede1be5b460007f91bc1" tvg-chno="" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png" group-title="Noticias", CBS News 24/7
-https://jmp2.uk/plu-6231ede1be5b460007f91bc1.m3u8
-
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-60089d97f682a3002c34829d" tvg-id="643054b1fc3be59477853717-60089d97f682a3002c34829d" tvg-chno="" tvg-name="Euronews Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fa402feb-1ae2-48bf-9dda-9c42384a324d/Logo_Euronews_stacked_white_on_spanish_1500x1000wht.png" group-title="Noticias", Euronews Español
-https://jmp2.uk/plex-643054b1fc3be59477853717-60089d97f682a3002c34829d.m3u8
-			
-#EXTINF:-1 channel-id="60d3583ef310610007fb02b1" tvg-id="60d3583ef310610007fb02b1" tvg-chno="" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="Noticias", Euronews
-https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
-			
-
-														###----- MTV -----###
-
-#EXTINF:-1 tvg-id="MTV España" tvg-logo="" group-title="MTV",MTV España
-
-
-#EXTINF:-1 channel-id="ESAJ3800003LX" tvg-id="ESAJ3800003LX" tvg-chno="" tvg-name="MTV Catfish" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20241022T050742SQUARE.png" group-title="MTV", MTV Catfish
-https://jmp2.uk/sam-ESAJ3800003LX.m3u8
-
-#EXTINF:-1 channel-id="5f1ab3c7778230000735cf41" tvg-id="5f1ab3c7778230000735cf41" tvg-chno="" tvg-name="MTV Catfish TV Show" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="MTV", MTV Catfish TV Show
-https://jmp2.uk/plu-5f1ab3c7778230000735cf41.m3u8
-
-#EXTINF:-1 channel-id="5f98537a5a4341000733aefe" tvg-id="5f98537a5a4341000733aefe" tvg-chno="" tvg-name="MTV Embarazada a los 16" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="MTV", MTV Embarazada a los 16
-https://jmp2.uk/plu-5f98537a5a4341000733aefe.m3u8
-
-#EXTINF:-1 channel-id="6686796619311200085310a0" tvg-id="6686796619311200085310a0" tvg-chno="" tvg-name="MTV Flow Latino" tvg-logo="https://images.pluto.tv/channels/6686796619311200085310a0/colorLogoPNG.png" group-title="Música", MTV Flow Latino
-https://jmp2.uk/plu-6686796619311200085310a0.m3u8
-
-#EXTINF:-1 channel-id="627d3176d7dfa500077042f1" tvg-id="627d3176d7dfa500077042f1" tvg-chno="" tvg-name="MTV Geordies" tvg-logo="https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png" group-title="MTV", MTV Geordies
-https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8
-
-#EXTINF:-1 channel-id="62ac3d7dc23b400008ae5b5a" tvg-id="62ac3d7dc23b400008ae5b5a" tvg-chno="" tvg-name="MTV Jerseys" tvg-logo="https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png" group-title="MTV", MTV Jerseys
-https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8
-
-#EXTINF:-1 channel-id="60a26a056d55b30007918d5a" tvg-id="60a26a056d55b30007918d5a" tvg-chno="" tvg-name="MTV Music Made in Spain" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="Música", MTV Music Made in Spain
-https://jmp2.uk/plu-60a26a056d55b30007918d5a.m3u8
-
-#EXTINF:-1 channel-id="668677b774f5ec0008124f33" tvg-id="668677b774f5ec0008124f33" tvg-chno="" tvg-name="MTV New Music" tvg-logo="https://images.pluto.tv/channels/668677b774f5ec0008124f33/colorLogoPNG.png" group-title="Música", MTV New Music
-https://jmp2.uk/plu-668677b774f5ec0008124f33.m3u8
-
-#EXTINF:-1 channel-id="5f1aadf373bed3000794d1d7" tvg-id="5f1aadf373bed3000794d1d7" tvg-chno="" tvg-name="MTV Originals" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="MTV", MTV Originals
-https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
-
-#EXTINF:-1 channel-id="61ea759737679900078ff559" tvg-id="61ea759737679900078ff559" tvg-chno="" tvg-name="MTV Party Music" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="Música", MTV Party Music
-https://jmp2.uk/plu-61ea759737679900078ff559.m3u8
-
-#EXTINF:-1 channel-id="6130d8dc943001000708548d" tvg-id="6130d8dc943001000708548d" tvg-chno="" tvg-name="MTV Realities" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png" group-title="MTV", MTV Realities
-https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8
-
-#EXTINF:-1 channel-id="65786d29dfed030008ce2fa7" tvg-id="65786d29dfed030008ce2fa7" tvg-chno="" tvg-name="MTV Rock" tvg-logo="https://images.pluto.tv/channels/65786d29dfed030008ce2fa7/colorLogoPNG.png" group-title="Música", MTV Rock
-https://jmp2.uk/plu-65786d29dfed030008ce2fa7.m3u8
-
-#EXTINF:-1 channel-id="604f81a49ef73300070e554f" tvg-id="604f81a49ef73300070e554f" tvg-chno="" tvg-name="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="MTV", MTV Teen Mom
-https://jmp2.uk/plu-604f81a49ef73300070e554f.m3u8
-
-#EXTINF:-1 channel-id="63eb9495a8b227000841bf64" tvg-id="63eb9495a8b227000841bf64" tvg-chno="" tvg-name="MTV Vergüenza ajena" tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" group-title="MTV", MTV Vergüenza ajena
-https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8
-
-#EXTINF:-1 channel-id="ESAJ3800006TT" tvg-id="ESAJ3800006TT" tvg-chno="" tvg-name="MTV Cribs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20241106T142236SQUARE.png" group-title="MTV", MTV Cribs
-https://jmp2.uk/sam-ESAJ3800006TT.m3u8
-
-														
-														###----- MUSICA -----###
-
-#EXTINF:-1 channel-id="ES32000027M" tvg-id="ES32000027M" tvg-chno="4748" tvg-name="CLIPS don´t Lie" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES32000027M_20250107T024929SQUARE.png" group-title="Música", CLIPS don´t Lie
-https://jmp2.uk/sam-ES32000027M.m3u8
-
-#EXTINF:-1 channel-id="ES2500001F9" tvg-id="ES2500001F9" tvg-chno="4742" tvg-name="Cool Summer Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2500001F9_20241023T143110SQUARE.png" group-title="Música", Cool Summer Channel
-https://jmp2.uk/sam-ES2500001F9.m3u8
-
-#EXTINF:-1 channel-id="ESBA1500001C4" tvg-id="ESBA1500001C4" tvg-chno="4761" tvg-name="Deluxe Lounge HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1500001C4_20241022T050252SQUARE.png" group-title="Música", Deluxe Lounge HD
-https://jmp2.uk/sam-ESBA1500001C4.m3u8
-
-#EXTINF:-1 channel-id="ES3900001QG" tvg-id="ES3900001QG" tvg-chno="4750" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20241105T025339SQUARE.png" group-title="Música", K-POP by CJ ENM
-https://jmp2.uk/sam-ES3900001QG.m3u8
-
-#EXTINF:-1 channel-id="ESBD2300004Y7" tvg-id="ESBD2300004Y7" tvg-chno="4740" tvg-name="Sol Música" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png" group-title="Música", Sol Música
-https://jmp2.uk/sam-ESBD2300004Y7.m3u8
-
-#EXTINF:-1 channel-id="ES1900001OE" tvg-id="ES1900001OE" tvg-chno="4707" tvg-name="Staccs Music TV 80’s Hits" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1900001OE_20241022T051102SQUARE.png" group-title="Música", Staccs Music TV 80’s Hits
-https://jmp2.uk/sam-ES1900001OE.m3u8
-
-#EXTINF:-1 channel-id="ESBD270000108" tvg-id="ESBD270000108" tvg-chno="4705" tvg-name="Staccs Music TV Greatest Hits" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD270000108_20241106T142327SQUARE.png" group-title="Música", Staccs Music TV Greatest Hits
-https://jmp2.uk/sam-ESBD270000108.m3u8
-
-#EXTINF:-1 channel-id="ESBA3300042Y6" tvg-id="ESBA3300042Y6" tvg-chno="4694" tvg-name="Trace Latina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20241022T051129SQUARE.png" group-title="Música", Trace Latina
-https://jmp2.uk/sam-ESBA3300042Y6.m3u8
-
-#EXTINF:-1 channel-id="ESBA3300043M0" tvg-id="ESBA3300043M0" tvg-chno="4696" tvg-name="Trace Urban" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20241022T051131SQUARE.png" group-title="Música", Trace Urban
-https://jmp2.uk/sam-ESBA3300043M0.m3u8
-
-#EXTINF:-1 channel-id="ESBD230000289" tvg-id="ESBD230000289" tvg-chno="4685" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20241022T051142SQUARE.png" group-title="Música", Vevo '70s & '80s
-https://jmp2.uk/sam-ESBD230000289.m3u8
-
-#EXTINF:-1 channel-id="ESBC2100002LV" tvg-id="ESBC2100002LV" tvg-chno="4683" tvg-name="Vevo Latino" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20241022T051144SQUARE.png" group-title="Música", Vevo Latino
-https://jmp2.uk/sam-ESBC2100002LV.m3u8
-
-#EXTINF:-1 channel-id="ESBC2100001IU" tvg-id="ESBC2100001IU" tvg-chno="4689" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20241022T051146SQUARE.png" group-title="Música", Vevo Pop
-https://jmp2.uk/sam-ESBC2100001IU.m3u8
-
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-62efba6588a16bb7d6b6fb58" tvg-id="643054b1fc3be59477853717-62efba6588a16bb7d6b6fb58" tvg-chno="" tvg-name="Éxitos del Momento" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png" group-title="Música", Éxitos del Momento
-https://jmp2.uk/plex-643054b1fc3be59477853717-62efba6588a16bb7d6b6fb58.m3u8
-
-#EXTINF:-1 channel-id="668677f7fd9eb200087b673a" tvg-id="668677f7fd9eb200087b673a" tvg-chno="628" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/668677f7fd9eb200087b673a/colorLogoPNG.png" group-title="Música", MTV Biggest Pop
-https://jmp2.uk/plu-668677f7fd9eb200087b673a.m3u8
-
-#EXTINF:-1 channel-id="65787eab32c1b300089a84d7" tvg-id="65787eab32c1b300089a84d7" tvg-chno="624" tvg-name="MTV Reggaeton" tvg-logo="https://images.pluto.tv/channels/65787eab32c1b300089a84d7/colorLogoPNG.png" group-title="Música", MTV Reggaeton
-https://jmp2.uk/plu-65787eab32c1b300089a84d7.m3u8
-
-#EXTINF:-1 channel-id="65eeffc50d4561000836f191" tvg-id="65eeffc50d4561000836f191" tvg-chno="453" tvg-name="PRIDEtv" tvg-logo="https://images.pluto.tv/channels/65eeffc50d4561000836f191/colorLogoPNG.png" group-title="Música", PRIDEtv
-https://jmp2.uk/plu-65eeffc50d4561000836f191.m3u8
-
-#EXTINF:-1 channel-id="6076cd1df8576d0007c82193" tvg-id="6076cd1df8576d0007c82193" tvg-chno="620" tvg-name="VH1 Classics" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Música", VH1 Classics
-https://jmp2.uk/plu-6076cd1df8576d0007c82193.m3u8
-
-#EXTINF:-1 channel-id="668678bc0642e500080f90c6" tvg-id="668678bc0642e500080f90c6" tvg-chno="626" tvg-name="Yo! MTV" tvg-logo="https://images.pluto.tv/channels/668678bc0642e500080f90c6/colorLogoPNG.png" group-title="Música", Yo! MTV
-https://jmp2.uk/plu-668678bc0642e500080f90c6.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/del40al1/picture?width=200&height=200" group-title="Música" tvg-name="Del 40 al 1",Del 40 al 1
-
 
 
 														###----- TELENOVELAS -----###
