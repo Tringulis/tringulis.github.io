@@ -1017,12 +1017,8 @@ http://185.189.225.150:85/NationalGeographic/index.m3u8
 http://185.189.225.150:85/natgeowild/index.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="DMAX" group-title="Documentales", DMAX
-#EXTVLCOPT:http-referrer=http://vavoo.to
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://vavoo.to/play/1934981639/index.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-id="DMAX" group-title="Documentales", DMAX
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
 
 #EXTINF:-1 channel-id="ES12000024R" tvg-id="ES12000024R" tvg-chno="" tvg-name="Historia y Vida" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20241106T142227SQUARE.png" group-title="Documentales", Historia y Vida
 https://jmp2.uk/sam-ES12000024R.m3u8
