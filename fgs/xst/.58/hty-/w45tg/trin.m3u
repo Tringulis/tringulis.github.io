@@ -592,6 +592,9 @@ acestream://154c6f876ddf1d9c87880eae0d0442335ec156bf
 
 
 														###----- TEMATICOS -----###
+														
+#EXTINF:-1 tvg-logo="" group-title="Tematicos" tvg-name="TravelXP",TravelXP
+https://36c99fb4c50649bf803389624beea453.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TravelXP/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Tematicos" tvg-name="3CAT Joc de Cartes",3CAT Joc de Cartes
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel1/hls.m3u8
@@ -1012,6 +1015,11 @@ http://185.189.225.150:85/NationalGeographic/index.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="Nat Geo Wild HD" group-title="Documentales", Nat Geo Wild
 http://185.189.225.150:85/natgeowild/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="DMAX" group-title="Documentales", DMAX
+#EXTVLCOPT:http-referrer=http://vavoo.to
+#EXTVLCOPT:http-user-agent=http-user-agent=VAVOO/2.6
+http://vavoo.to/play/1934981639/index.m3u8
 
 #EXTINF:-1 channel-id="ES12000024R" tvg-id="ES12000024R" tvg-chno="" tvg-name="Historia y Vida" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20241106T142227SQUARE.png" group-title="Documentales", Historia y Vida
 https://jmp2.uk/sam-ES12000024R.m3u8
