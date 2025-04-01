@@ -33,7 +33,12 @@ http://185.189.225.150:85/fdf/index.m3u8
 http://185.189.225.150:85/neox/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" tvg-id="Mega" group-title="Generalistas", Mega
-http://185.189.225.150:85/mega/index.m3u8
+http://185.189.225.150:85/mega/index.
+
+#EXTINF:-1 tvg-id="Be mad" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0809019d494375790d229747b0a8c230.webp" group-title="Generalistas" tvg-name="Be Mad",Be Mad
+#EXTVLCOPT:http-referrer=mitele
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://directos.mitele.es/orilinear18/live/linear18/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1728471639~exp=1728471818~acl=/*~hmac=64565852af1117b80a07084e90e1f87d368fac232dcc69976d4ddda1370aaa21
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/mtmad-24h-en-directo-Online-696x392.png" tvg-id="mtmad 24h" group-title="Generalistas", mtmad 24h
 #EXTVLCOPT:http-referrer=mitele
@@ -54,11 +59,6 @@ acestream://bbd251f89bc7716e2bef237906ecfba3c562ecde
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c401897060d34194cab703c7ebfa15d.webp" group-title="Generalistas" tvg-name="HispanTV",HispanTV
 https://live.presstv.ir/hls/hispantv.m3u8
-
-#EXTINF:-1 tvg-id="Be mad" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0809019d494375790d229747b0a8c230.webp" group-title="Generalistas" tvg-name="Be Mad",Be Mad
-#EXTVLCOPT:http-referrer=mitele
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://directos.mitele.es/orilinear18/live/linear18/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1728471639~exp=1728471818~acl=/*~hmac=64565852af1117b80a07084e90e1f87d368fac232dcc69976d4ddda1370aaa21
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Generalistas" tvg-name="Flooxer",Flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
@@ -83,9 +83,6 @@ https://jmp2.uk/sam-ESBD3000002GP.m3u8
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Generalistas" tvg-name="24h",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-#EXTINF:-1 channel-id="ESBC4100004J1" tvg-id="ESBC4100004J1" tvg-chno="" tvg-name="24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20241022T050444SQUARE.png" group-title="Generalistas", 24H
-https://jmp2.uk/sam-ESBC4100004J1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5fc5ZyI.png" group-title="Generalistas" tvg-name="Canal Terrassa",Canal Terrassa
 https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
