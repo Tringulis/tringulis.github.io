@@ -90,17 +90,26 @@ https://jmp2.uk/sam-ESBC4100004J1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5fc5ZyI.png" group-title="Generalistas" tvg-name="Canal Terrassa",Canal Terrassa
 https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="Generalistas", La Sexta
+#EXTINF:-1 tvg-id="La 1 HD" tvg-chno="" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1 HD", La 1 HD
+acestream://7225e4b281975f1a36d61dfd9724b669d7747b70
+
+#EXTINF:-1 tvg-id="La 2 HD" tvg-chno="" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2 HD", La 2 HD
+acestream://56d98cef21d9e242a8c32f36259c850c467e9748
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="Generalistas", La Sexta HD
 acestream://a4378aa93f9f436cfd1654160991f554e5395d88
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="Generalistas", Antena 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="Generalistas", Antena 3 HD
 acestream://c5b1bb99bdee549885d4d680cafbdd0a026239f5
 
-#EXTINF:-1 tvg-id="Cuatro HD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Generalistas" tvg-chno="10", tvg-name="Cuatro HD",Cuatro
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Generalistas" tvg-chno="10", tvg-name="Cuatro HD",Cuatro HD
 acestream://da60cf19fab0b9e23aab83bb37d61e8b8c3b7655
 
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-chno="5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Generalistas" tvg-name="Telecinco HD", TeleCinco
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-chno="5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Generalistas" tvg-name="Telecinco HD", TeleCinco HD
 acestream://154c6f876ddf1d9c87880eae0d0442335ec156bf
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" tvg-id="Mega" group-title="Generalistas", Mega HD
+acestream://5c02eda19460d039aee54b6cdfd89ec5b0b9e1f2
 
 
 											###----- CARRERAS -----###
@@ -531,7 +540,7 @@ acestream://c8aac540621d481965791c4442a7e868bcca10ca
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teleDeportesRTVE/picture?width=200&height=200" group-title="Deportes" tvg-name="TeleDeporte",TeleDeporte
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 
-#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teleDeportesRTVE/picture?width=200&height=200" group-title="Deportes" tvg-name="TeleDeporte",TeleDeporte
+#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teleDeportesRTVE/picture?width=200&height=200" group-title="Deportes" tvg-name="TeleDeporte",TeleDeporte HD
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MundoNautica/picture?width=200&height=200" group-title="Deportes" tvg-name="Mundo Nautica",Mundo Nautica
