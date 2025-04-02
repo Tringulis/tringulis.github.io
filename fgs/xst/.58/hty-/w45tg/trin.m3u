@@ -81,6 +81,9 @@ https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
 #EXTINF:-1 channel-id="ESBD3000002GP" tvg-id="ESBD3000002GP" tvg-chno="" tvg-name="Canal Sur Andalucía" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20241022T050505SQUARE.png" group-title="Generalistas", Canal Sur Andalucía
 https://jmp2.uk/sam-ESBD3000002GP.m3u8
 
+#EXTINF:-1 tvg-id="TeleMadrid" tvg-chno="" tvg-name="TeleMadrid" tvg-logo="" group-title="Generalistas", TeleMadrid
+https://new-international-23-secure2.akamaized.net/index.m3u8
+
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Generalistas" tvg-name="24h",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
@@ -629,7 +632,7 @@ https://jmp2.uk/sam-ESBA22000102A.m3u8
 #EXTINF:-1 tvg-id="Love thePlanet" tvg-logo="https://fr.themedialeader.com/wp-content/uploads/files/media/images/2023-04/nl2901-Samsung%20TV%20Plus%20et%20Love%20TV%20Channels%20lancent%20%C2%AB%20Love%20The%20Planet%20%C2%BB.jpg" group-title="Documentales", Love ThePlanet
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/360p/index.m3u8
 
-#EXTINF:-1 tvg-id="Atresplayer Inquietos" tvg-logo="https://i.imgur.com/FizKu1X.png" group-title="Documentales" tvg-name="Atresplayer Inquietos",Atresplayer Inquietos
+#EXTINF:-1 tvg-id="Inquietos Atresplayer" tvg-logo="https://i.imgur.com/FizKu1X.png" group-title="Documentales" tvg-name="Inquietos Atresplayer",Inquietos Atresplayer
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61/1.m3u8
 
 #EXTINF:-1 channel-id="ESBD1400003QN" tvg-id="ESBD1400003QN" tvg-chno="" tvg-name="Royalworld - Nobleza y Dinastias" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20241106T142225SQUARE.png" group-title="Documentales", Royalworld - Nobleza y Dinastias
@@ -694,7 +697,7 @@ http://185.189.225.150:85/star/index.m3u8
 #EXTINF:-1 tvg-id="Cine Friki" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f667db78acfeca3e792be86616ee96f.webp" group-title="Cine",Cine Friki
 https://d2jqgm8hyia1n3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/08230ff6-0f05-415e-99d1-5d727dac97b7/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Cine" tvg-name="Multicine atresplayer",A3 Multicine
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Cine" tvg-name="Multicine Atresplayer",Multicine Atresplayer
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Cine" tvg-name="RTVE Somos Cine",RTVE Somos Cine
@@ -832,7 +835,7 @@ https://ztnr.rtve.es/ztnr/6922467.m3u8
 #EXTINF:-1 tvg-id="TCM HD" tvg-logo="https://images.seeklogo.com/logo-png/13/2/tcm-logo-png_seeklogo-136143.png" group-title="Series" tvg-name="TCM HD",TCM
 http://185.189.225.150:85/TCM/index.m3u8
 
-#EXTINF:-1 tvg-id="Atresplayer Clasicos" tvg-logo="https://i.imgur.com/FizKu1X.png" group-title="Series" tvg-name="Atresplayer Clasicos",Atresplayer Clasicos
+#EXTINF:-1 tvg-id="Clásicos Atresplayer" tvg-logo="https://i.imgur.com/FizKu1X.png" group-title="Series" tvg-name="Clásicos Atresplayer",Clásicos Atresplayer
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/1.m3u8
 
 #EXTINF:-1 channel-id="ESBD1300001EP" tvg-id="ESBD1300001EP" tvg-chno="" tvg-name="Baywatch – Los Vigilantes de la Playa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20241106T142319SQUARE.png" group-title="Series", Baywatch – Los Vigilantes de la Playa
@@ -1059,7 +1062,7 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-6154a863e3e4d9577f96b31a.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ElClubDeLaComediaEnlaSexta/picture?width=200&height=200" group-title="Comedia" tvg-name="El club de la comedia",El club de la comedia
 https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Comedia" tvg-name="Atresplayer Comedia",Atresplayer Comedia
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Comedia" tvg-name="Comedia Atresplayer",Comedia Atresplayer
 https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
 
 #EXTINF:-1 tvg-id="LateXou" tvg-logo="https://i.postimg.cc/B6h78qLb/Sin-t-tulo-1.jpg" group-title="Comedia" tvg-name="LateXou",LateXou
