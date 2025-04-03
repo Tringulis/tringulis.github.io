@@ -33,7 +33,7 @@ http://185.189.225.150:85/fdf/index.m3u8
 http://185.189.225.150:85/neox/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" tvg-id="Mega" group-title="Generalistas", Mega
-http://185.189.225.150:85/mega/index
+http://185.189.225.150:85/mega/index.m3u8
 
 #EXTINF:-1 tvg-id="Be mad" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0809019d494375790d229747b0a8c230.webp" group-title="Generalistas" tvg-name="Be Mad",Be Mad
 #EXTVLCOPT:http-referrer=mitele
@@ -695,7 +695,7 @@ http://185.189.225.150:85/star/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Cine Friki" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f667db78acfeca3e792be86616ee96f.webp" group-title="Cine",Cine Friki
-https://d2jqgm8hyia1n3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/08230ff6-0f05-415e-99d1-5d727dac97b7/0.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Cine" tvg-name="Multicine Atresplayer",Multicine Atresplayer
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
