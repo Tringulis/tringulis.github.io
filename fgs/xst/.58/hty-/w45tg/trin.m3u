@@ -33,7 +33,7 @@ http://185.189.225.150:85/fdf/index.m3u8
 http://185.189.225.150:85/neox/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" tvg-id="Mega" group-title="Generalistas", Mega
-http://185.189.225.150:85/mega/index.
+http://185.189.225.150:85/mega/index
 
 #EXTINF:-1 tvg-id="Be mad" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0809019d494375790d229747b0a8c230.webp" group-title="Generalistas" tvg-name="Be Mad",Be Mad
 #EXTVLCOPT:http-referrer=mitele
@@ -49,7 +49,7 @@ https://directos.mitele.es/orilinear15/live/linear15/main/main.isml/.m3u8?t=1&hd
 http://185.189.225.150:85/nova/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mplus.png" group-title="Generalistas" tvg-id="Movistar Plus+ HD", Movistar Plus+
-acestream://335646e7394ea4eda343c95e57852bb70fc4178f
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mplus.png" group-title="Generalistas" tvg-id="Movistar Plus+ HD", Movistar Plus+
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
@@ -829,11 +829,14 @@ http://185.189.225.150:85/syfy/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/AQUINHQV/picture?width=200&height=200" group-title="Series" tvg-chno="" tvg-name="Aquí no hay quién viva",Aquí no hay quién viva
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 
+#EXTINF:-1 tvg-id="TCM HD" tvg-logo="https://images.seeklogo.com/logo-png/13/2/tcm-logo-png_seeklogo-136143.png" group-title="Series" tvg-name="TCM HD",TCM
+http://185.189.225.150:85/TCM/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Series" tvg-name="RTVE Series",RTVE Series
 https://ztnr.rtve.es/ztnr/6922467.m3u8
 
-#EXTINF:-1 tvg-id="TCM HD" tvg-logo="https://images.seeklogo.com/logo-png/13/2/tcm-logo-png_seeklogo-136143.png" group-title="Series" tvg-name="TCM HD",TCM
-http://185.189.225.150:85/TCM/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Series" tvg-name="Comedia Atresplayer",Comedia Atresplayer
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
 
 #EXTINF:-1 tvg-id="Clásicos Atresplayer" tvg-logo="https://i.imgur.com/FizKu1X.png" group-title="Series" tvg-name="Clásicos Atresplayer",Clásicos Atresplayer
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/1.m3u8
@@ -958,7 +961,7 @@ https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Tematicos" tvg-name="RTVE Época",RTVE Época
-https://ztnr.rtve.es/ztnr/2472035.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Tematicos" tvg-name="RTVE Crimen",RTVE Crimen
 https://ztnr.rtve.es/ztnr/2472037.m3u8
@@ -991,10 +994,10 @@ https://jmp2.uk/sam-ESBC1700002IM.m3u8
 https://jmp2.uk/sam-ESAJ3800007PC.m3u8
 
 #EXTINF:-1 channel-id="ESBC3900002L8" tvg-id="ESBC3900002L8" tvg-chno="" tvg-name="Vivir con Gatos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900002L8_20241022T051153SQUARE.png" group-title="Tematicos", Vivir con Gatos
-https://jmp2.uk/sam-ESBC3900002L8.m3u8
+
 
 #EXTINF:-1 channel-id="ESBC3900001G6" tvg-id="ESBC3900001G6" tvg-chno="" tvg-name="Vivir con Perros" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900001G6_20241022T051156SQUARE.png" group-title="Tematicos", Vivir con Perros
-https://jmp2.uk/sam-ESBC3900001G6.m3u8
+
 
 #EXTINF:-1 channel-id="5f984f4a09e92d0007d74647" tvg-id="5f984f4a09e92d0007d74647" tvg-chno="" tvg-name="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png" group-title="Tematicos", Archivos Forenses
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
@@ -1062,14 +1065,10 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-6154a863e3e4d9577f96b31a.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ElClubDeLaComediaEnlaSexta/picture?width=200&height=200" group-title="Comedia" tvg-name="El club de la comedia",El club de la comedia
 https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Comedia" tvg-name="Comedia Atresplayer",Comedia Atresplayer
-https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
-
 #EXTINF:-1 tvg-id="LateXou" tvg-logo="https://i.postimg.cc/B6h78qLb/Sin-t-tulo-1.jpg" group-title="Comedia" tvg-name="LateXou",LateXou
 https://ztnr.rtve.es/ztnr/2472037.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://images.seeklogo.com/logo-png/13/2/tcm-logo-png_seeklogo-136143.png" group-title="Comedia" tvg-name="Comedy Central HD",Comedy Central
-http://185.189.225.150:85/comedycentral/index.m3u8
 
 #EXTINF:-1 channel-id="ESAJ3800005C5" tvg-id="ESAJ3800005C5" tvg-chno="" tvg-name="Comedia Made in Spain" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png" group-title="Comedia", Comedia Made in Spain
 https://jmp2.uk/sam-ESAJ3800005C5.m3u8
@@ -1129,10 +1128,10 @@ https://jmp2.uk/plu-65c347ae3a116800078c93c5.m3u8
 https://jmp2.uk/rok-b741b23ecde35d84a9eef29d52cc9ac4.m3u8
 
 #EXTINF:-1 channel-id="ca25dfba8ba45a1bb277c8b0ca8f56c4" tvg-id="ca25dfba8ba45a1bb277c8b0ca8f56c4" tvg-chno="231" tvg-name="POWERNATION" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/ca25dfba8ba45a1bb277c8b0ca8f56c4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657584189840_260x147.png" group-title="Motor", POWERNATION
-https://jmp2.uk/rok-ca25dfba8ba45a1bb277c8b0ca8f56c4.m3u8
+
 
 #EXTINF:-1 channel-id="6080345ebb49b90007ce0baf" tvg-id="6080345ebb49b90007ce0baf" tvg-chno="160" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="Motor", Pluto TV Motor
-https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
+
 
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-60da3a5c0d1cc1002c38370e" tvg-id="643054b1fc3be59477853717-60da3a5c0d1cc1002c38370e" tvg-chno="" tvg-name="Motorvision TV en Español" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="Motor", Motorvision TV en Español
 https://jmp2.uk/plex-643054b1fc3be59477853717-60da3a5c0d1cc1002c38370e.m3u8
