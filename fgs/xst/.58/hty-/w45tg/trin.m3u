@@ -49,7 +49,7 @@ https://directos.mitele.es/orilinear15/live/linear15/main/main.isml/.m3u8?t=1&hd
 http://185.189.225.150:85/nova/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mplus.png" group-title="Generalistas" tvg-id="Movistar Plus+ HD", Movistar Plus+
-https://zekonew.newkso.ru/zeko/premium437/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mplus.png" group-title="Generalistas" tvg-id="Movistar Plus+ HD", Movistar Plus+
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
@@ -204,9 +204,6 @@ acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="Futbol", M+ LaLiga UHD
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Futbol" tvg-id="M+ LaLiga TV HD", M+ LaLiga
-https://windnew.newkso.ru/wind/premium84/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Futbol" tvg-id="DAZN LaLiga HD", DAZN LaLiga
 acestream://6de4794cd02f88f14354b5996823413a59a1de0f
 
@@ -253,7 +250,7 @@ acestream://05057e832dd1530c7d5e8b0857fee6826243a243
 acestream://f43a021e8fd63334a4bf3fb11ffe58f89039a1d0	
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Futbol" tvg-id="M+ Liga de Campeones HD", M+ Liga de Campeones
-https://zekonew.newkso.ru/zeko/premium435/mono.m3u8														
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" group-title="Futbol" tvg-id="M+ LaLiga TV 2 HD", M+ LaLiga 2
 acestream://f31a586422c9244196c810c84b6c85da350318a5
@@ -354,9 +351,6 @@ https://jmp2.uk/sam-ESBD3600001Q1.m3u8
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" group-title="Futbol", Gol Play
 acestream://3a2bbdbe4cc775c5c75ccb7d2408363d69c94b5d
 
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" group-title="Futbol", Gol Play
-https://dokko1new.newkso.ru/dokko1/premium530/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Aqp_wNSGx1JGiuOD5FHk3fa5iQcZ2NzB9hy75N5lBrDm2OrQ_Jnka7__-yXQe1pjHCM=w240-h480-rw" tvg-id="Top Barça" group-title="Futbol", Top Barça
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/cb543d16736c628784cb3f66cef046a9f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7557db80148b61299bce8c37683f03409a5e5afba358b1ebe70c47d16ca0b71555942c4dee9f43c8821ca6d1d30d9c5e8123f113c8c3a48f8211d1d4f3c2986d905cd8a7db1ce9e103f1ec6ef4bfa97938957f5a377437c396e332caa1e43d2579ededc4af60857ca6579e5c0145d3349d5d96319978ab4bd389eb1506daad20620ddead786033a1e9af84f23471ce0e2c3937bc011dbb8c7d5a46db6edd2e243691b7ac7ee1934dc4e477d7f7017c49bbdef8dffb1ba7cfc99fa072a158b894b8772f6b76160d9658edb76cdf3bd47c9203724b53604bb79359c887960b7e320fceb757da1714aec8cbadeb4e6a9a2e4b01a857d05553389774742ab164b9bb2c7c85233d803716f24c7ad511abf67fa3e793ce2e0f98f28b02f366e4b04af5f301a262751921bbe0235240032c83bb285d7e298d15a4e0cbe7761b09a3a29ea98e006e754c7d383b82ece37f8c9d80784d64a67d1220254059c67e9503b927460f29c51ba9dc2a7c97092c28a6ea7f6a536292c7a692c5b1ee41a674c7c0ed334c6a0c31a552e547b62518523febb83c5d8f866ab66c7a7f8b38ece806/152/1920x1080_5129264/index.m3u8
 
@@ -374,6 +368,10 @@ acestream://e720d8fef514c63468bdae65d7c20d48e22d7df9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/3._Liga_logo_%282019%29.svg/200px-3._Liga_logo_%282019%29.svg.png" tvg-id="" group-title="Futbol", DAZN BUNDESLIGA 3
 acestream://f2dc625a32ba3437100b1261fd0751d83d64ce91
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/3._Liga_logo_%282019%29.svg/200px-3._Liga_logo_%282019%29.svg.png" tvg-id="Kings League" group-title="Futbol", Kings League
+https://usher.ttvnw.net/api/channel/hls/kingsleague.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiMGQ2MTRjYzAtNjcxMC00YjlhLTk3ZjUtNjI5YzU0MTRlZWNjIn0%3D&allow_source=true&browser_family=chrome&browser_version=135.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=4433731&parent_domains=twitchplayer&platform=web&play_session_id=a0066a813811850c00df52406a9627bc&player_backend=mediaplayer&player_version=1.39.0-rc.3&playlist_include_framerate=true&reassignments_supported=true&sig=a17fed3151e76b26147df767d931ce4bf92e4285&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22kingsleague%22%2C%22channel_id%22%3A121606712%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22e32d765d762093fe%22%2C%22expires%22%3A1744019356%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22188.79.100.169%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
+
 
 															###----- DEPORTES -----###		
 
@@ -395,9 +393,6 @@ acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Deportes" tvg-id="M+ Vamos HD",M+ Vamos
 acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Deportes" tvg-id="M+ Vamos HD",M+ Vamos
-https://windnew.newkso.ru/wind/premium521/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QcDkP0P/Captura-de-pantalla-2024-11-23-140721.png" group-title="Deportes" tvg-id="M+ Ellas Vamos HD",M+ Ellas Vamos
 acestream://e2d26332bf1aa59aec7e3cbe9ed4689df44ae368
@@ -501,9 +496,6 @@ acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Deportes" tvg-id="Eurosport 1", Eurosport 1
 acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Deportes" tvg-id="Eurosport 1", Eurosport 1
-https://zekonew.newkso.ru/zeko/premium524/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Deportes" tvg-id="Eurosport 2", Eurosport 2
 acestream://98784fa0714190de289f42eb5b84e405df7e685a
 
@@ -565,7 +557,7 @@ https://ztnr.rtve.es/ztnr/1712295.m3u8
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MundoNautica/picture?width=200&height=200" group-title="Deportes" tvg-name="Mundo Nautica",Mundo Nautica
-#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12109&live=1
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mypadeltv/picture?width=200&height=200" group-title="Deportes" tvg-name="MyPadel TV",MyPadel TV
 
@@ -630,7 +622,7 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 
 
 #EXTINF:-1 tvg-id="Historia" tvg-logo="" group-title="Documentales",Historia
-
+https://zzcointv.xyz/canales.php?id=historiaes
 
 #EXTINF:-1 tvg-id="Odisea" tvg-logo="" group-title="Documentales",Odisea
 http://185.189.225.150:85/odisea/index.m3u8
