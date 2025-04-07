@@ -430,9 +430,6 @@ acestream://fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" group-title="Deportes" tvg-id="M+ Deportes 2 HD", M+ Deportes 2
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" group-title="Deportes" tvg-id="M+ Deportes 2 HD", M+ Deportes 2
-https://y9hgz2a8b74prtqu.cdnutter.net:8443/hls/f3cstn9tlhuu.m3u8?s=BLAqHkmkHzJCkDDytYJ1Ow&e=1744037907
-
 #EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="Deportes" tvg-id="M+ Deportes 3", M+ Deportes 3
 acestream://985896872c52d04030c112ca99584046d022a349
 
@@ -622,7 +619,7 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 
 
 #EXTINF:-1 tvg-id="Historia" tvg-logo="" group-title="Documentales",Historia
-https://zzcointv.xyz/canales.php?id=historiaes
+
 
 #EXTINF:-1 tvg-id="Odisea" tvg-logo="" group-title="Documentales",Odisea
 http://185.189.225.150:85/odisea/index.m3u8
