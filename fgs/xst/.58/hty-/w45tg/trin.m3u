@@ -623,6 +623,9 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 
 #EXTINF:-1 tvg-id="Odisea" tvg-logo="" group-title="Documentales",Odisea
 http://185.189.225.150:85/odisea/index.m3u8
+
+#EXTINF:-1 tvg-id="Odisea" tvg-logo="" group-title="Documentales",Odisea
+http://185.189.225.150:85/odisea/index.m3u8
 														
 #EXTINF:-1 tvg-logo="" tvg-id="Discovery" group-title="Documentales", Discovery
 http://185.189.225.150:85/Discovery/index.m3u8
